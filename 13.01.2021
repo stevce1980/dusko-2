@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|SPORTS|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/WORLD/WORLD-----|SPORTS|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|Portugal|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/Portugal/Portugal-----|Portugal|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|Portugal|------" tvg-logo="" group-title="Portugal",------|Portugal|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1,RTP 1
 http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2817.ts
 #EXTINF:-1,RTP 2
@@ -181,8 +179,8 @@ http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2912.ts
 http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2913.ts
 #EXTINF:-1,Telecine Cult HD HEVC
 http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/2914.ts
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|Spain|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/Spain/Spain-----|Spain|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|Spain|------" tvg-logo="" group-title="Spain",------|Spain|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1,|ES| LA 1 HD
 http://m3u.iptvott.live:8080/07654321/07654321/40149
 #EXTINF:-1,|ES| LA 1
@@ -493,7 +491,6 @@ http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48402
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48403
 #EXTINF:-1,ES | Nick JR
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48404
-
 #EXTINF:-1,LA1 FHD ES
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/16288
 #EXTINF:-1,LA1 HD ES
@@ -572,7 +569,6 @@ http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683545
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683547
 #EXTINF:-1,DAZN 1 [Web TV] HD VIP ES
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683551
-
 #EXTINF:-1,Movistar Deportes FHD ES
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/16278
 #EXTINF:-1,Movistar Deportes HD ES
@@ -1189,8 +1185,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8773
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53156
 #EXTINF:-1,Clan TVE ES
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7231
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|Germany|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/Germany/Germany-----|Germany|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|Germany|------" tvg-logo="" group-title="Germany",------|Germany|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1,13TH STREET FULL HD
 http://m3u.iptvott.live:8080/07654321/07654321/40736
 #EXTINF:-1,ARD HD
@@ -2351,8 +2347,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6255
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14200
 #EXTINF:-1,Deutsches Musik Fernsehen DE
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13165
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|Italy|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/Italy/Italy-----|Italy|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|Italy|------" tvg-logo="" group-title="Italy",------|Italy|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1,IT003:Canale 5
 http://a1.gokakka.club:8880/testzyx030/123456789/2769
 #EXTINF:-1,IT006:Cielo
@@ -3359,8 +3355,8 @@ http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1312
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1319
 #EXTINF:-1,IT | m2o HD
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1316
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|Russia|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/Russia/WORLD-----|Russia|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|Rusia|------" tvg-logo="" group-title="Rusia",------|Rusia|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1 group-title="Кино",Остросюжетное HD
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-1 group-title="Кино",Рен ТВ HD
@@ -4621,9 +4617,8 @@ http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
 #EXTINF:-1,Первый канал "Евразия"
 #EXTGRP:Другое
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|Ukraine|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/Ukraine/Ukraine-----|Ukraine|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
-#EXTINF:-1,|UK| 3E
+#EXTINF:-1 tvg-id="" tvg-name="------|Ukraine|------" tvg-logo="" group-title="Ukraine",------|Ukraine|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 http://m3u.iptvott.live:8080/07654321/07654321/174308
 #EXTINF:-1,|UK| 4MUSIC
 http://m3u.iptvott.live:8080/07654321/07654321/174309
@@ -5191,8 +5186,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15895
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15902
 #EXTINF:-1,Colors TV UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16881
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|France|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/France/France-----|France|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|France|------" tvg-logo="" group-title="France",------|France|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1,FR002:6Ter
 http://a1.gokakka.club:8880/testzyx030/123456789/2864
 #EXTINF:-1,FR004:AB1
@@ -7109,8 +7104,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5652
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5601
 #EXTINF:-1,Djazz TV FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7939
-#EXTINF:-1 tvg-id="" tvg-name="WORLD:-----|France|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/France/France-----|France|---------------------------------.png" group-title="WORLD Sports",WORLD:-----|SPORTS|---------------------------------
-http://mu02.v2iptv.com:8880/test854/we235352/60609
+#EXTINF:-1 tvg-id="" tvg-name="------|USA|------" tvg-logo="" group-title="USA",------|USA|------
+http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1,US: & FHD
 http://m3u.iptvott.live:8080/07654321/07654321/163906
 #EXTINF:-1,US: &LIVE HD
