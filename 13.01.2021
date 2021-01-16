@@ -1,529 +1,1655 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BG110:TV 1000" tvg-logo="" group-title="Bulgaria",BG110:TV 1000
-#EXTINF:-1 tvg-id="" tvg-name="------|Russian|------" tvg-logo="" group-title="Russian",------|Russian|------
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52288
-#EXTINF:-1 tvg-id="" tvg-name="RUS001:Zoo Park" tvg-logo="" group-title="Russian",RUS001:Zoo Park
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52287
-#EXTINF:-1 tvg-id="" tvg-name="RUS002:Cartoon Network" tvg-logo="" group-title="Russian",RUS002:Cartoon Network
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52286
-#EXTINF:-1 tvg-id="" tvg-name="RUS003:VIASAT SPORT EAST" tvg-logo="" group-title="Russian",RUS003:VIASAT SPORT EAST
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52285
-#EXTINF:-1 tvg-id="" tvg-name="RUS004:TV1000 PREMIUM HD" tvg-logo="" group-title="Russian",RUS004:TV1000 PREMIUM HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52284
-#EXTINF:-1 tvg-id="" tvg-name="RUS005:TV1000 MEGAHIT HD" tvg-logo="" group-title="Russian",RUS005:TV1000 MEGAHIT HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52283
-#EXTINF:-1 tvg-id="" tvg-name="RUS006:TV1000 COMEDY HD" tvg-logo="" group-title="Russian",RUS006:TV1000 COMEDY HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52282
-#EXTINF:-1 tvg-id="" tvg-name="RUS007:tv1000" tvg-logo="" group-title="Russian",RUS007:tv1000
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52281
-#EXTINF:-1 tvg-id="" tvg-name="RUS008:AXN" tvg-logo="" group-title="Russian",RUS008:AXN
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52280
-#EXTINF:-1 tvg-id="" tvg-name="RUS009:Sony Turbo" tvg-logo="" group-title="Russian",RUS009:Sony Turbo
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52279
-#EXTINF:-1 tvg-id="" tvg-name="RUS010:RUSsia League HD" tvg-logo="" group-title="Russian",RUS010:RUSsia League HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52278
-#EXTINF:-1 tvg-id="" tvg-name="RUS011:FOX LIFE" tvg-logo="" group-title="Russian",RUS011:FOX LIFE
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52277
-#EXTINF:-1 tvg-id="" tvg-name="RUS012:Premiera" tvg-logo="" group-title="Russian",RUS012:Premiera
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52276
-#EXTINF:-1 tvg-id="" tvg-name="RUS013:National Geographic" tvg-logo="" group-title="Russian",RUS013:National Geographic
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52275
-#EXTINF:-1 tvg-id="" tvg-name="RUS014:Nashe Kino" tvg-logo="" group-title="Russian",RUS014:Nashe Kino
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52274
-#EXTINF:-1 tvg-id="" tvg-name="RUS015:2x2 TV" tvg-logo="" group-title="Russian",RUS015:2x2 TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52273
-#EXTINF:-1 tvg-id="" tvg-name="RUS016:Match Sports" tvg-logo="" group-title="Russian",RUS016:Match Sports
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52272
-#EXTINF:-1 tvg-id="" tvg-name="RUS017:Amedia 2" tvg-logo="" group-title="Russian",RUS017:Amedia 2
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52271
-#EXTINF:-1 tvg-id="" tvg-name="RUS018:Friday" tvg-logo="" group-title="Russian",RUS018:Friday
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52270
-#EXTINF:-1 tvg-id="" tvg-name="RUS019:365 Days" tvg-logo="" group-title="Russian",RUS019:365 Days
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52269
-#EXTINF:-1 tvg-id="" tvg-name="RUS020:TV XXI" tvg-logo="" group-title="Russian",RUS020:TV XXI
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52268
-#EXTINF:-1 tvg-id="" tvg-name="RUS021:Amedia" tvg-logo="" group-title="Russian",RUS021:Amedia
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52267
-#EXTINF:-1 tvg-id="" tvg-name="RUS022:Disney Kanal" tvg-logo="" group-title="Russian",RUS022:Disney Kanal
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52266
-#EXTINF:-1 tvg-id="" tvg-name="RUS023:DISCOVERY CHANNEL HD" tvg-logo="" group-title="Russian",RUS023:DISCOVERY CHANNEL HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52265
-#EXTINF:-1 tvg-id="" tvg-name="RUS024:EUREKA HD" tvg-logo="" group-title="Russian",RUS024:EUREKA HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52264
-#EXTINF:-1 tvg-id="" tvg-name="RUS025:HTB HD" tvg-logo="" group-title="Russian",RUS025:HTB HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52263
-#EXTINF:-1 tvg-id="" tvg-name="RUS026:Match! Arena" tvg-logo="" group-title="Russian",RUS026:Match! Arena
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52262
-#EXTINF:-1 tvg-id="" tvg-name="RUS027:MTV" tvg-logo="" group-title="Russian",RUS027:MTV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52261
-#EXTINF:-1 tvg-id="" tvg-name="RUS028:MUSICBOX UA" tvg-logo="" group-title="Russian",RUS028:MUSICBOX UA
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52260
-#EXTINF:-1 tvg-id="" tvg-name="RUS029:REN TV" tvg-logo="" group-title="Russian",RUS029:REN TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52259
-#EXTINF:-1 tvg-id="" tvg-name="RUS030:Match Sports" tvg-logo="" group-title="Russian",RUS030:Match Sports
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52258
-#EXTINF:-1 tvg-id="" tvg-name="RUS031:AMC" tvg-logo="" group-title="Russian",RUS031:AMC
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52257
-#EXTINF:-1 tvg-id="" tvg-name="RUS032:Xtream Sports" tvg-logo="" group-title="Russian",RUS032:Xtream Sports
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52256
-#EXTINF:-1 tvg-id="" tvg-name="RUS033:MY PLANET" tvg-logo="" group-title="Russian",RUS033:MY PLANET
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52255
-#EXTINF:-1 tvg-id="" tvg-name="RUS034:VIASAT HISTORY" tvg-logo="" group-title="Russian",RUS034:VIASAT HISTORY
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52254
-#EXTINF:-1 tvg-id="" tvg-name="RUS035:24 ТЕХНО" tvg-logo="" group-title="Russian",RUS035:24 ТЕХНО
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52253
-#EXTINF:-1 tvg-id="" tvg-name="RUS036:MTV РОССИЯ" tvg-logo="" group-title="Russian",RUS036:MTV РОССИЯ
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52252
-#EXTINF:-1 tvg-id="" tvg-name="RUS037:HOME" tvg-logo="" group-title="Russian",RUS037:HOME
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52251
-#EXTINF:-1 tvg-id="" tvg-name="RUS038:Illusion" tvg-logo="" group-title="Russian",RUS038:Illusion
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52250
-#EXTINF:-1 tvg-id="" tvg-name="RUS039:CTC" tvg-logo="" group-title="Russian",RUS039:CTC
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52249
-#EXTINF:-1 tvg-id="" tvg-name="RUS040:HOME TB" tvg-logo="" group-title="Russian",RUS040:HOME TB
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52248
-#EXTINF:-1 tvg-id="" tvg-name="RUS041:JimJam" tvg-logo="" group-title="Russian",RUS041:JimJam
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52247
-#EXTINF:-1 tvg-id="" tvg-name="RUS042:Discovery Science HD" tvg-logo="" group-title="Russian",RUS042:Discovery Science HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52246
-#EXTINF:-1 tvg-id="" tvg-name="RUS043:Disney Channel HD" tvg-logo="" group-title="Russian",RUS043:Disney Channel HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52245
-#EXTINF:-1 tvg-id="" tvg-name="RUS044:Karusel TV" tvg-logo="" group-title="Russian",RUS044:Karusel TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52244
-#EXTINF:-1 tvg-id="" tvg-name="RUS045:BOXE TB" tvg-logo="" group-title="Russian",RUS045:BOXE TB
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52243
-#EXTINF:-1 tvg-id="" tvg-name="RUS046:Euro News HD" tvg-logo="" group-title="Russian",RUS046:Euro News HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52242
-#EXTINF:-1 tvg-id="" tvg-name="RUS047:VIASAT NATURE" tvg-logo="" group-title="Russian",RUS047:VIASAT NATURE
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52241
-#EXTINF:-1 tvg-id="" tvg-name="RUS048:Eurosport 2 HD" tvg-logo="" group-title="Russian",RUS048:Eurosport 2 HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52240
-#EXTINF:-1 tvg-id="" tvg-name="RUS049:Cinema" tvg-logo="" group-title="Russian",RUS049:Cinema
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52239
-#EXTINF:-1 tvg-id="" tvg-name="RUS050:Extreme Sports" tvg-logo="" group-title="Russian",RUS050:Extreme Sports
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52238
-#EXTINF:-1 tvg-id="" tvg-name="RUS051:FINE LIVING HD" tvg-logo="" group-title="Russian",RUS051:FINE LIVING HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52237
-#EXTINF:-1 tvg-id="" tvg-name="RUS052:Match Our Sports" tvg-logo="" group-title="Russian",RUS052:Match Our Sports
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52236
-#EXTINF:-1 tvg-id="" tvg-name="RUS053:FOX HD" tvg-logo="" group-title="Russian",RUS053:FOX HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52235
-#EXTINF:-1 tvg-id="" tvg-name="RUS054:MUZ TV" tvg-logo="" group-title="Russian",RUS054:MUZ TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52234
-#EXTINF:-1 tvg-id="" tvg-name="RUS055:FUTBOL 3 HD" tvg-logo="" group-title="Russian",RUS055:FUTBOL 3 HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52233
-#EXTINF:-1 tvg-id="" tvg-name="RUS056:MY3 TB" tvg-logo="" group-title="Russian",RUS056:MY3 TB
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52232
-#EXTINF:-1 tvg-id="" tvg-name="RUS057:History HD" tvg-logo="" group-title="Russian",RUS057:History HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52231
-#EXTINF:-1 tvg-id="" tvg-name="RUS058:Detective" tvg-logo="" group-title="Russian",RUS058:Detective
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52230
-#EXTINF:-1 tvg-id="" tvg-name="RUS059:KHL TV HD" tvg-logo="" group-title="Russian",RUS059:KHL TV HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52229
-#EXTINF:-1 tvg-id="" tvg-name="RUS060:Kino Home" tvg-logo="" group-title="Russian",RUS060:Kino Home
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52228
-#EXTINF:-1 tvg-id="" tvg-name="RUS061:Kino Hit HD" tvg-logo="" group-title="Russian",RUS061:Kino Hit HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52227
-#EXTINF:-1 tvg-id="" tvg-name="RUS062:Kino Cinema HD" tvg-logo="" group-title="Russian",RUS062:Kino Cinema HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52226
-#EXTINF:-1 tvg-id="" tvg-name="RUS063:Star TB" tvg-logo="" group-title="Russian",RUS063:Star TB
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52225
-#EXTINF:-1 tvg-id="" tvg-name="RUS064:LIFE HD" tvg-logo="" group-title="Russian",RUS064:LIFE HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52224
-#EXTINF:-1 tvg-id="" tvg-name="RUS065:САРАФАН" tvg-logo="" group-title="Russian",RUS065:САРАФАН
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52223
-#EXTINF:-1 tvg-id="" tvg-name="RUS066:Match! Apeha HD" tvg-logo="" group-title="Russian",RUS066:Match! Apeha HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52222
-#EXTINF:-1 tvg-id="" tvg-name="RUS067:Match! HD" tvg-logo="" group-title="Russian",RUS067:Match! HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52221
-#EXTINF:-1 tvg-id="" tvg-name="RUS068:Match! Planet" tvg-logo="" group-title="Russian",RUS068:Match! Planet
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52220
-#EXTINF:-1 tvg-id="" tvg-name="RUS069:Impact" tvg-logo="" group-title="Russian",RUS069:Impact
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52219
-#EXTINF:-1 tvg-id="" tvg-name="RUS070:MIR HD" tvg-logo="" group-title="Russian",RUS070:MIR HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52218
-#EXTINF:-1 tvg-id="" tvg-name="RUS071:ТВЦ" tvg-logo="" group-title="Russian",RUS071:ТВЦ
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52217
-#EXTINF:-1 tvg-id="" tvg-name="RUS072:ЭГОИСТ ТВ" tvg-logo="" group-title="Russian",RUS072:ЭГОИСТ ТВ
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52216
-#EXTINF:-1 tvg-id="" tvg-name="RUS073:RU.TV" tvg-logo="" group-title="Russian",RUS073:RU.TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52215
-#EXTINF:-1 tvg-id="" tvg-name="RUS074:A1" tvg-logo="" group-title="Russian",RUS074:A1
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52214
-#EXTINF:-1 tvg-id="" tvg-name="RUS075:ANI" tvg-logo="" group-title="Russian",RUS075:ANI
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52213
-#EXTINF:-1 tvg-id="" tvg-name="RUS076:Ohota i Rybalka" tvg-logo="" group-title="Russian",RUS076:Ohota i Rybalka
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52212
-#EXTINF:-1 tvg-id="" tvg-name="RUS077:Nash Futbol HD" tvg-logo="" group-title="Russian",RUS077:Nash Futbol HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52211
-#EXTINF:-1 tvg-id="" tvg-name="RUS078:NAT GEO HD" tvg-logo="" group-title="Russian",RUS078:NAT GEO HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52210
-#EXTINF:-1 tvg-id="" tvg-name="RUS079:NAT GEO Wild HD" tvg-logo="" group-title="Russian",RUS079:NAT GEO Wild HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52209
-#EXTINF:-1 tvg-id="" tvg-name="RUS080:TB3" tvg-logo="" group-title="Russian",RUS080:TB3
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52208
-#EXTINF:-1 tvg-id="" tvg-name="RUS081:NICK Junior HD" tvg-logo="" group-title="Russian",RUS081:NICK Junior HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52207
-#EXTINF:-1 tvg-id="" tvg-name="RUS082:Nickelodeon HD" tvg-logo="" group-title="Russian",RUS082:Nickelodeon HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52206
-#EXTINF:-1 tvg-id="" tvg-name="RUS083:NTV HD" tvg-logo="" group-title="Russian",RUS083:NTV HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52205
-#EXTINF:-1 tvg-id="" tvg-name="RUS084:MIR 24" tvg-logo="" group-title="Russian",RUS084:MIR 24
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52204
-#EXTINF:-1 tvg-id="" tvg-name="RUS085:Our sport" tvg-logo="" group-title="Russian",RUS085:Our sport
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52203
-#EXTINF:-1 tvg-id="" tvg-name="RUS086:Outdoor Channel HD" tvg-logo="" group-title="Russian",RUS086:Outdoor Channel HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52202
-#EXTINF:-1 tvg-id="" tvg-name="RUS087:DA VINCI LEARNING" tvg-logo="" group-title="Russian",RUS087:DA VINCI LEARNING
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52201
-#EXTINF:-1 tvg-id="" tvg-name="RUS088:PARAMOUNT COMEDY HD" tvg-logo="" group-title="Russian",RUS088:PARAMOUNT COMEDY HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52200
-#EXTINF:-1 tvg-id="" tvg-name="RUS089:KINO Klub HD" tvg-logo="" group-title="Russian",RUS089:KINO Klub HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52199
-#EXTINF:-1 tvg-id="" tvg-name="RUS090:RTG HD" tvg-logo="" group-title="Russian",RUS090:RTG HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52198
-#EXTINF:-1 tvg-id="" tvg-name="RUS091:EUROKINO" tvg-logo="" group-title="Russian",RUS091:EUROKINO
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52197
-#EXTINF:-1 tvg-id="" tvg-name="RUS092:First Channel" tvg-logo="" group-title="Russian",RUS092:First Channel
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52196
-#EXTINF:-1 tvg-id="" tvg-name="RUS093:H&F" tvg-logo="" group-title="Russian",RUS093:H&F
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52195
-#EXTINF:-1 tvg-id="" tvg-name="RUS094:SOYUZ" tvg-logo="" group-title="Russian",RUS094:SOYUZ
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52194
-#EXTINF:-1 tvg-id="" tvg-name="RUS095:Sport 1 UA" tvg-logo="" group-title="Russian",RUS095:Sport 1 UA
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52193
-#EXTINF:-1 tvg-id="" tvg-name="RUS096:TLC HD" tvg-logo="" group-title="Russian",RUS096:TLC HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52192
-#EXTINF:-1 tvg-id="" tvg-name="RUS097:TNT HD" tvg-logo="" group-title="Russian",RUS097:TNT HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52191
-#EXTINF:-1 tvg-id="" tvg-name="RUS098:HAWE HOBEW" tvg-logo="" group-title="Russian",RUS098:HAWE HOBEW
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52190
-#EXTINF:-1 tvg-id="" tvg-name="RUS099:Travel Channel HD" tvg-logo="" group-title="Russian",RUS099:Travel Channel HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52189
-#EXTINF:-1 tvg-id="" tvg-name="RUS100:HBO 3" tvg-logo="" group-title="Russian",RUS100:HBO 3
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52188
-#EXTINF:-1 tvg-id="" tvg-name="RUS101:TV1000 PREMIERE HD" tvg-logo="" group-title="Russian",RUS101:TV1000 PREMIERE HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52187
-#EXTINF:-1 tvg-id="" tvg-name="RUS102:Horse World" tvg-logo="" group-title="Russian",RUS102:Horse World
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52186
-#EXTINF:-1 tvg-id="" tvg-name="RUS103:VIASAT EXPLORE HD" tvg-logo="" group-title="Russian",RUS103:VIASAT EXPLORE HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52185
-#EXTINF:-1 tvg-id="" tvg-name="RUS104:KIDS" tvg-logo="" group-title="Russian",RUS104:KIDS
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52184
-#EXTINF:-1 tvg-id="" tvg-name="RUS105:Kino Plus" tvg-logo="" group-title="Russian",RUS105:Kino Plus
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52183
-#EXTINF:-1 tvg-id="" tvg-name="RUS106:Match Premier" tvg-logo="" group-title="Russian",RUS106:Match Premier
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52182
-#EXTINF:-1 tvg-id="" tvg-name="RUS107:KinoSvidanie" tvg-logo="" group-title="Russian",RUS107:KinoSvidanie
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52181
-#EXTINF:-1 tvg-id="" tvg-name="RUS108:Box TV" tvg-logo="" group-title="Russian",RUS108:Box TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52180
-#EXTINF:-1 tvg-id="" tvg-name="RUS109:112 UA" tvg-logo="" group-title="Russian",RUS109:112 UA
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52179
-#EXTINF:-1 tvg-id="" tvg-name="RUS110:Strana FM HD" tvg-logo="" group-title="Russian",RUS110:Strana FM HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52178
-#EXTINF:-1 tvg-id="" tvg-name="RUS111:ONE BY" tvg-logo="" group-title="Russian",RUS111:ONE BY
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52177
-#EXTINF:-1 tvg-id="" tvg-name="RUS112:22x2" tvg-logo="" group-title="Russian",RUS112:22x2
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52176
-#EXTINF:-1 tvg-id="" tvg-name="RUS113:Match Futbol 1" tvg-logo="" group-title="Russian",RUS113:Match Futbol 1
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52175
-#EXTINF:-1 tvg-id="" tvg-name="RUS114:Match Futbol 2" tvg-logo="" group-title="Russian",RUS114:Match Futbol 2
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52174
-#EXTINF:-1 tvg-id="" tvg-name="RUS115:Akudji HD" tvg-logo="" group-title="Russian",RUS115:Akudji HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52173
-#EXTINF:-1 tvg-id="" tvg-name="RUS116:Brodilo HD" tvg-logo="" group-title="Russian",RUS116:Brodilo HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52172
-#EXTINF:-1 tvg-id="" tvg-name="RUS117:CHP Info" tvg-logo="" group-title="Russian",RUS117:CHP Info
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52171
-#EXTINF:-1 tvg-id="" tvg-name="RUS118:Match Futbol 3" tvg-logo="" group-title="Russian",RUS118:Match Futbol 3
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52170
-#EXTINF:-1 tvg-id="" tvg-name="RUS119:Efir-24" tvg-logo="" group-title="Russian",RUS119:Efir-24
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52169
-#EXTINF:-1 tvg-id="" tvg-name="RUS120:Euronews RUSsian HD" tvg-logo="" group-title="Russian",RUS120:Euronews RUSsian HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52168
-#EXTINF:-1 tvg-id="" tvg-name="RUS121:MATCH IGRA" tvg-logo="" group-title="Russian",RUS121:MATCH IGRA
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52167
-#EXTINF:-1 tvg-id="" tvg-name="RUS122:Gorizont TV UA" tvg-logo="" group-title="Russian",RUS122:Gorizont TV UA
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52166
-#EXTINF:-1 tvg-id="" tvg-name="RUS123:Gromads'ke" tvg-logo="" group-title="Russian",RUS123:Gromads'ke
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52165
-#EXTINF:-1 tvg-id="" tvg-name="RUS124:Mnogoserijnoje" tvg-logo="" group-title="Russian",RUS124:Mnogoserijnoje
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52164
-#EXTINF:-1 tvg-id="" tvg-name="RUS125:Impact" tvg-logo="" group-title="Russian",RUS125:Impact
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52163
-#EXTINF:-1 tvg-id="" tvg-name="RUS126:Inter" tvg-logo="" group-title="Russian",RUS126:Inter
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52162
-#EXTINF:-1 tvg-id="" tvg-name="RUS127:K1" tvg-logo="" group-title="Russian",RUS127:K1
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52161
-#EXTINF:-1 tvg-id="" tvg-name="RUS128:Kaledoskop" tvg-logo="" group-title="Russian",RUS128:Kaledoskop
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52160
-#EXTINF:-1 tvg-id="" tvg-name="RUS129:DOM KINO" tvg-logo="" group-title="Russian",RUS129:DOM KINO
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52159
-#EXTINF:-1 tvg-id="" tvg-name="RUS130:DOM KINO PREMIUM" tvg-logo="" group-title="Russian",RUS130:DOM KINO PREMIUM
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52158
-#EXTINF:-1 tvg-id="" tvg-name="RUS131:SOJUZ" tvg-logo="" group-title="Russian",RUS131:SOJUZ
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52157
-#EXTINF:-1 tvg-id="" tvg-name="RUS132:Mir Belogor'ya" tvg-logo="" group-title="Russian",RUS132:Mir Belogor'ya
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52156
-#EXTINF:-1 tvg-id="" tvg-name="RUS133:MostVideo HD" tvg-logo="" group-title="Russian",RUS133:MostVideo HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52155
-#EXTINF:-1 tvg-id="" tvg-name="RUS134:MuzSoyuz" tvg-logo="" group-title="Russian",RUS134:MuzSoyuz
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52154
-#EXTINF:-1 tvg-id="" tvg-name="RUS135:Nadiya" tvg-logo="" group-title="Russian",RUS135:Nadiya
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52153
-#EXTINF:-1 tvg-id="" tvg-name="RUS136:Nano TV" tvg-logo="" group-title="Russian",RUS136:Nano TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52152
-#EXTINF:-1 tvg-id="" tvg-name="RUS137:NTS (Sevastopol')" tvg-logo="" group-title="Russian",RUS137:NTS (Sevastopol')
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52151
-#EXTINF:-1 tvg-id="" tvg-name="RUS138:Sport Fights" tvg-logo="" group-title="Russian",RUS138:Sport Fights
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52150
-#EXTINF:-1 tvg-id="" tvg-name="RUS139:MTV Dance" tvg-logo="" group-title="Russian",RUS139:MTV Dance
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52149
-#EXTINF:-1 tvg-id="" tvg-name="RUS140:RBK." tvg-logo="" group-title="Russian",RUS140:RBK.
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52148
-#EXTINF:-1 tvg-id="" tvg-name="RUS141:CTC LOVE" tvg-logo="" group-title="Russian",RUS141:CTC LOVE
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52147
-#EXTINF:-1 tvg-id="" tvg-name="RUS142:MULT" tvg-logo="" group-title="Russian",RUS142:MULT
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52146
-#EXTINF:-1 tvg-id="" tvg-name="RUS143:RUSSIA  1 HD" tvg-logo="" group-title="Russian",RUS143:RUSSIA  1 HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52145
-#EXTINF:-1 tvg-id="" tvg-name="RUS144:RUSsian Music Box" tvg-logo="" group-title="Russian",RUS144:RUSsian Music Box
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52144
-#EXTINF:-1 tvg-id="" tvg-name="RUS145:Shanson.TV" tvg-logo="" group-title="Russian",RUS145:Shanson.TV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52143
-#EXTINF:-1 tvg-id="" tvg-name="RUS146:Muzhskoe kino" tvg-logo="" group-title="Russian",RUS146:Muzhskoe kino
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52142
-#EXTINF:-1 tvg-id="" tvg-name="RUS147:NTV FOOTBALL 2" tvg-logo="" group-title="Russian",RUS147:NTV FOOTBALL 2
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52141
-#EXTINF:-1 tvg-id="" tvg-name="RUS148:NTV Mir" tvg-logo="" group-title="Russian",RUS148:NTV Mir
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52140
-#EXTINF:-1 tvg-id="" tvg-name="RUS149:NTV FOOTBALL 3" tvg-logo="" group-title="Russian",RUS149:NTV FOOTBALL 3
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52139
-#EXTINF:-1 tvg-id="" tvg-name="RUS150:One Channel" tvg-logo="" group-title="Russian",RUS150:One Channel
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52138
-#EXTINF:-1 tvg-id="" tvg-name="RUS151:our cinema" tvg-logo="" group-title="Russian",RUS151:our cinema
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52137
-#EXTINF:-1 tvg-id="" tvg-name="RUS152:Pink Folk" tvg-logo="" group-title="Russian",RUS152:Pink Folk
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52136
-#EXTINF:-1 tvg-id="" tvg-name="RUS153:RTVI NASHE KINO" tvg-logo="" group-title="Russian",RUS153:RTVI NASHE KINO
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52135
-#EXTINF:-1 tvg-id="" tvg-name="RUS154:Russia Roman" tvg-logo="" group-title="Russian",RUS154:Russia Roman
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52134
-#EXTINF:-1 tvg-id="" tvg-name="RUS155:Russia Today" tvg-logo="" group-title="Russian",RUS155:Russia Today
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52133
-#EXTINF:-1 tvg-id="" tvg-name="RUS156:YUTV (Cheboksary)" tvg-logo="" group-title="Russian",RUS156:YUTV (Cheboksary)
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/52132
-#EXTINF:-1 tvg-id="" tvg-name="RUS157:Zvezda" tvg-logo="" group-title="Russian",RUS157:Zvezda
-#EXTINF:-1 tvg-id="" tvg-name="------|Australia|------" tvg-logo="" group-title="Australia",------|Australia|------
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/53023
-#EXTINF:-1 tvg-id="" tvg-name="AU001:ABC" tvg-logo="" group-title="Australia",AU001:ABC
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61063
-#EXTINF:-1 tvg-id="" tvg-name="AU002:ABC News" tvg-logo="" group-title="Australia",AU002:ABC News
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61064
-#EXTINF:-1 tvg-id="" tvg-name="AU003:ABC Comedy" tvg-logo="" group-title="Australia",AU003:ABC Comedy
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61065
-#EXTINF:-1 tvg-id="" tvg-name="AU004:ABC Kids" tvg-logo="" group-title="Australia",AU004:ABC Kids
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61066
-#EXTINF:-1 tvg-id="" tvg-name="AU005:ABC Perth" tvg-logo="" group-title="Australia",AU005:ABC Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61067
-#EXTINF:-1 tvg-id="" tvg-name="AU006:ABC News Perth" tvg-logo="" group-title="Australia",AU006:ABC News Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61068
-#EXTINF:-1 tvg-id="" tvg-name="AU007:ABC Comedy Perth" tvg-logo="" group-title="Australia",AU007:ABC Comedy Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61069
-#EXTINF:-1 tvg-id="" tvg-name="AU008:ABC Kids Perth" tvg-logo="" group-title="Australia",AU008:ABC Kids Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61070
-#EXTINF:-1 tvg-id="" tvg-name="AU009:ABC Me Perth" tvg-logo="" group-title="Australia",AU009:ABC Me Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61071
-#EXTINF:-1 tvg-id="" tvg-name="AU010:ABC ME Melbourne" tvg-logo="" group-title="Australia",AU010:ABC ME Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61072
-#EXTINF:-1 tvg-id="" tvg-name="AU011:ABC News Melbourne" tvg-logo="" group-title="Australia",AU011:ABC News Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61073
-#EXTINF:-1 tvg-id="" tvg-name="AU012:ABC Brisbane" tvg-logo="" group-title="Australia",AU012:ABC Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61074
-#EXTINF:-1 tvg-id="" tvg-name="AU013:ABC Sydney" tvg-logo="" group-title="Australia",AU013:ABC Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61075
-#EXTINF:-1 tvg-id="" tvg-name="AU014:ABC Comedy Brisbane" tvg-logo="" group-title="Australia",AU014:ABC Comedy Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61076
-#EXTINF:-1 tvg-id="" tvg-name="AU015:ABC Comedy Sydney" tvg-logo="" group-title="Australia",AU015:ABC Comedy Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61077
-#EXTINF:-1 tvg-id="" tvg-name="AU016:ABC News National" tvg-logo="" group-title="Australia",AU016:ABC News National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61078
-#EXTINF:-1 tvg-id="" tvg-name="AU017:ABC Kids National" tvg-logo="" group-title="Australia",AU017:ABC Kids National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61079
-#EXTINF:-1 tvg-id="" tvg-name="AU018:ABC ME National" tvg-logo="" group-title="Australia",AU018:ABC ME National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61080
-#EXTINF:-1 tvg-id="" tvg-name="AU019:ACCTV Perth" tvg-logo="" group-title="Australia",AU019:ACCTV Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61081
-#EXTINF:-1 tvg-id="" tvg-name="AU020:ACCTV National" tvg-logo="" group-title="Australia",AU020:ACCTV National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61082
-#EXTINF:-1 tvg-id="" tvg-name="AU021:Al Jazeera (NZ)" tvg-logo="" group-title="Australia",AU021:Al Jazeera (NZ)
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61083
-#EXTINF:-1 tvg-id="" tvg-name="AU022:beIN Sports 1" tvg-logo="" group-title="Australia",AU022:beIN Sports 1
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61084
-#EXTINF:-1 tvg-id="" tvg-name="AU023:BeIN SPORTS 2 | UHD" tvg-logo="" group-title="Australia",AU023:BeIN SPORTS 2 | UHD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61085
-#EXTINF:-1 tvg-id="" tvg-name="AU024:beIN Sports 3" tvg-logo="" group-title="Australia",AU024:beIN Sports 3
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61086
-#EXTINF:-1 tvg-id="" tvg-name="AU025:Channel 9 Perth" tvg-logo="" group-title="Australia",AU025:Channel 9 Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61087
-#EXTINF:-1 tvg-id="" tvg-name="AU026:Channel 9 Melbourne" tvg-logo="" group-title="Australia",AU026:Channel 9 Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61088
-#EXTINF:-1 tvg-id="" tvg-name="AU027:Channel 9 Brisbane" tvg-logo="" group-title="Australia",AU027:Channel 9 Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61089
-#EXTINF:-1 tvg-id="" tvg-name="AU028:Channel 9 Sydney" tvg-logo="" group-title="Australia",AU028:Channel 9 Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61090
-#EXTINF:-1 tvg-id="" tvg-name="AU029:ESPN 1 HD" tvg-logo="" group-title="Australia",AU029:ESPN 1 HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61091
-#EXTINF:-1 tvg-id="" tvg-name="AU030:ESPN 2 FHD" tvg-logo="" group-title="Australia",AU030:ESPN 2 FHD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61092
-#EXTINF:-1 tvg-id="" tvg-name="AU031:Fox Sports News FHD" tvg-logo="" group-title="Australia",AU031:Fox Sports News FHD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61093
-#EXTINF:-1 tvg-id="" tvg-name="AU032:Fox Sports 501" tvg-logo="" group-title="Australia",AU032:Fox Sports 501
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61094
-#EXTINF:-1 tvg-id="" tvg-name="AU033:Fox Sports 502" tvg-logo="" group-title="Australia",AU033:Fox Sports 502
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61095
-#EXTINF:-1 tvg-id="" tvg-name="AU034:Fox Sports 503" tvg-logo="" group-title="Australia",AU034:Fox Sports 503
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61096
-#EXTINF:-1 tvg-id="" tvg-name="AU035:Fox Sports 504" tvg-logo="" group-title="Australia",AU035:Fox Sports 504
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61097
-#EXTINF:-1 tvg-id="" tvg-name="AU036:Fox Sports 505" tvg-logo="" group-title="Australia",AU036:Fox Sports 505
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61098
-#EXTINF:-1 tvg-id="" tvg-name="AU037:Fox Sports 506" tvg-logo="" group-title="Australia",AU037:Fox Sports 506
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61099
-#EXTINF:-1 tvg-id="" tvg-name="AU038:Fox Sports 507" tvg-logo="" group-title="Australia",AU038:Fox Sports 507
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61100
-#EXTINF:-1 tvg-id="" tvg-name="AU039:NITV" tvg-logo="" group-title="Australia",AU039:NITV
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61101
-#EXTINF:-1 tvg-id="" tvg-name="AU040:NITV (Perth)" tvg-logo="" group-title="Australia",AU040:NITV (Perth)
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61102
-#EXTINF:-1 tvg-id="" tvg-name="AU041:NITV Sydney" tvg-logo="" group-title="Australia",AU041:NITV Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61103
-#EXTINF:-1 tvg-id="" tvg-name="AU042:Expo Channel" tvg-logo="" group-title="Australia",AU042:Expo Channel
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61104
-#EXTINF:-1 tvg-id="" tvg-name="AU043:ausbiz TV " tvg-logo="" group-title="Australia",AU043:ausbiz TV 
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61105
-#EXTINF:-1 tvg-id="" tvg-name="AU044:Outdoor Channel" tvg-logo="" group-title="Australia",AU044:Outdoor Channel
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61106
-#EXTINF:-1 tvg-id="" tvg-name="AU045:PAC-12" tvg-logo="" group-title="Australia",AU045:PAC-12
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61107
-#EXTINF:-1 tvg-id="" tvg-name="AU046:PAC-12 Perth" tvg-logo="" group-title="Australia",AU046:PAC-12 Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61108
-#EXTINF:-1 tvg-id="" tvg-name="AU047:PAC-12 National" tvg-logo="" group-title="Australia",AU047:PAC-12 National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61109
-#EXTINF:-1 tvg-id="" tvg-name="AU048:Racingcom" tvg-logo="" group-title="Australia",AU048:Racingcom
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61110
-#EXTINF:-1 tvg-id="" tvg-name="AU049:RACING.COM Melbourne" tvg-logo="" group-title="Australia",AU049:RACING.COM Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61111
-#EXTINF:-1 tvg-id="" tvg-name="AU050:Racing.com National" tvg-logo="" group-title="Australia",AU050:Racing.com National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61112
-#EXTINF:-1 tvg-id="" tvg-name="AU051:RACING | HD" tvg-logo="" group-title="Australia",AU051:RACING | HD
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61113
-#EXTINF:-1 tvg-id="" tvg-name="AU052:Redbull TV Perth" tvg-logo="" group-title="Australia",AU052:Redbull TV Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61114
-#EXTINF:-1 tvg-id="" tvg-name="AU053:Redbull TV Melbourne" tvg-logo="" group-title="Australia",AU053:Redbull TV Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61115
-#EXTINF:-1 tvg-id="" tvg-name="AU054:Redbull TV National" tvg-logo="" group-title="Australia",AU054:Redbull TV National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61116
-#EXTINF:-1 tvg-id="" tvg-name="AU055:Redbull TV (NZ)" tvg-logo="" group-title="Australia",AU055:Redbull TV (NZ)
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61117
-#EXTINF:-1 tvg-id="" tvg-name="AU056:SBS" tvg-logo="" group-title="Australia",AU056:SBS
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61118
-#EXTINF:-1 tvg-id="" tvg-name="AU057:SBS World Movies" tvg-logo="" group-title="Australia",AU057:SBS World Movies
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61119
-#EXTINF:-1 tvg-id="" tvg-name="AU058:SBS Viceland" tvg-logo="" group-title="Australia",AU058:SBS Viceland
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61120
-#EXTINF:-1 tvg-id="" tvg-name="AU059:SBS Food" tvg-logo="" group-title="Australia",AU059:SBS Food
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61121
-#EXTINF:-1 tvg-id="" tvg-name="AU060:SBS Perth" tvg-logo="" group-title="Australia",AU060:SBS Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61122
-#EXTINF:-1 tvg-id="" tvg-name="AU061:SBS World Movies Perth" tvg-logo="" group-title="Australia",AU061:SBS World Movies Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61123
-#EXTINF:-1 tvg-id="" tvg-name="AU062:SBS Viceland Perth" tvg-logo="" group-title="Australia",AU062:SBS Viceland Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61124
-#EXTINF:-1 tvg-id="" tvg-name="AU063:SBS Food Perth" tvg-logo="" group-title="Australia",AU063:SBS Food Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61125
-#EXTINF:-1 tvg-id="" tvg-name="AU064:SBS Food Melbourne" tvg-logo="" group-title="Australia",AU064:SBS Food Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61126
-#EXTINF:-1 tvg-id="" tvg-name="AU065:SBS Melbourne" tvg-logo="" group-title="Australia",AU065:SBS Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61127
-#EXTINF:-1 tvg-id="" tvg-name="AU066:SBS Viceland Melbourne" tvg-logo="" group-title="Australia",AU066:SBS Viceland Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61128
-#EXTINF:-1 tvg-id="" tvg-name="AU067:SBS Brisbane" tvg-logo="" group-title="Australia",AU067:SBS Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61129
-#EXTINF:-1 tvg-id="" tvg-name="AU068:SBS Sydney" tvg-logo="" group-title="Australia",AU068:SBS Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61130
-#EXTINF:-1 tvg-id="" tvg-name="AU069:SBS Food Brisbane" tvg-logo="" group-title="Australia",AU069:SBS Food Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61131
-#EXTINF:-1 tvg-id="" tvg-name="AU070:SBS World Movies National" tvg-logo="" group-title="Australia",AU070:SBS World Movies National
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61132
-#EXTINF:-1 tvg-id="" tvg-name="AU071:Seven" tvg-logo="" group-title="Australia",AU071:Seven
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61133
-#EXTINF:-1 tvg-id="" tvg-name="AU072:Seven Perth" tvg-logo="" group-title="Australia",AU072:Seven Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61134
-#EXTINF:-1 tvg-id="" tvg-name="AU073:SKY News" tvg-logo="" group-title="Australia",AU073:SKY News
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61135
-#EXTINF:-1 tvg-id="" tvg-name="AU074:Ten Perth" tvg-logo="" group-title="Australia",AU074:Ten Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61136
-#EXTINF:-1 tvg-id="" tvg-name="AU075:Ten Sydney" tvg-logo="" group-title="Australia",AU075:Ten Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61137
-#EXTINF:-1 tvg-id="" tvg-name="AU076:Ten Brisbane" tvg-logo="" group-title="Australia",AU076:Ten Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61138
-#EXTINF:-1 tvg-id="" tvg-name="AU077:Ten Melbourne" tvg-logo="" group-title="Australia",AU077:Ten Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61139
-#EXTINF:-1 tvg-id="" tvg-name="AU078:TVSN Shopping (NZ)" tvg-logo="" group-title="Australia",AU078:TVSN Shopping (NZ)
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61140
-#EXTINF:-1 tvg-id="" tvg-name="AU079:Olympics Channel" tvg-logo="" group-title="Australia",AU079:Olympics Channel
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61141
-#EXTINF:-1 tvg-id="" tvg-name="AU080:7Two" tvg-logo="" group-title="Australia",AU080:7Two
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61142
-#EXTINF:-1 tvg-id="" tvg-name="AU081:7TWO Melbourne" tvg-logo="" group-title="Australia",AU081:7TWO Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61143
-#EXTINF:-1 tvg-id="" tvg-name="AU082:7Two Sydney" tvg-logo="" group-title="Australia",AU082:7Two Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61144
-#EXTINF:-1 tvg-id="" tvg-name="AU083:7mate" tvg-logo="" group-title="Australia",AU083:7mate
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61145
-#EXTINF:-1 tvg-id="" tvg-name="AU084:7mate Melbourne" tvg-logo="" group-title="Australia",AU084:7mate Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61146
-#EXTINF:-1 tvg-id="" tvg-name="AU085:9Gem" tvg-logo="" group-title="Australia",AU085:9Gem
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61147
-#EXTINF:-1 tvg-id="" tvg-name="AU086:9Gem Perth" tvg-logo="" group-title="Australia",AU086:9Gem Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61148
-#EXTINF:-1 tvg-id="" tvg-name="AU087:9Gem Melbourne" tvg-logo="" group-title="Australia",AU087:9Gem Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61149
-#EXTINF:-1 tvg-id="" tvg-name="AU088:9Gem Sydney" tvg-logo="" group-title="Australia",AU088:9Gem Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61150
-#EXTINF:-1 tvg-id="" tvg-name="AU089:9Gem Brisbane" tvg-logo="" group-title="Australia",AU089:9Gem Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61151
-#EXTINF:-1 tvg-id="" tvg-name="AU090:9Go! Perth" tvg-logo="" group-title="Australia",AU090:9Go! Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61152
-#EXTINF:-1 tvg-id="" tvg-name="AU091:9Go! Sydney" tvg-logo="" group-title="Australia",AU091:9Go! Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61153
-#EXTINF:-1 tvg-id="" tvg-name="AU092:9Go! Brisbane" tvg-logo="" group-title="Australia",AU092:9Go! Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61154
-#EXTINF:-1 tvg-id="" tvg-name="AU093:9Life Perth" tvg-logo="" group-title="Australia",AU093:9Life Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61155
-#EXTINF:-1 tvg-id="" tvg-name="AU094:9Life Melbourne" tvg-logo="" group-title="Australia",AU094:9Life Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61156
-#EXTINF:-1 tvg-id="" tvg-name="AU095:9Life Sydney" tvg-logo="" group-title="Australia",AU095:9Life Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61157
-#EXTINF:-1 tvg-id="" tvg-name="AU096:9Life Brisbane" tvg-logo="" group-title="Australia",AU096:9Life Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61158
-#EXTINF:-1 tvg-id="" tvg-name="AU097:10 Bold" tvg-logo="" group-title="Australia",AU097:10 Bold
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61159
-#EXTINF:-1 tvg-id="" tvg-name="AU098:10 Bold Perth" tvg-logo="" group-title="Australia",AU098:10 Bold Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61160
-#EXTINF:-1 tvg-id="" tvg-name="AU099:10 Bold Melbourne" tvg-logo="" group-title="Australia",AU099:10 Bold Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61161
-#EXTINF:-1 tvg-id="" tvg-name="AU100:10 Bold Brisbane" tvg-logo="" group-title="Australia",AU100:10 Bold Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61162
-#EXTINF:-1 tvg-id="" tvg-name="AU101:10 Bold Sydney" tvg-logo="" group-title="Australia",AU101:10 Bold Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61163
-#EXTINF:-1 tvg-id="" tvg-name="AU102:10 Peach Perth" tvg-logo="" group-title="Australia",AU102:10 Peach Perth
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61164
-#EXTINF:-1 tvg-id="" tvg-name="AU103:10 Peach Melbourne" tvg-logo="" group-title="Australia",AU103:10 Peach Melbourne
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61165
-#EXTINF:-1 tvg-id="" tvg-name="AU104:10 Peach Sydney" tvg-logo="" group-title="Australia",AU104:10 Peach Sydney
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61166
-#EXTINF:-1 tvg-id="" tvg-name="AU105:10 Peach Brisbane" tvg-logo="" group-title="Australia",AU105:10 Peach Brisbane
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/61167
+#EXTINF:-1 tvg-ID="" tvg-name="======= VIP Baltic =======" tvg-logo="" group-title="",======= VIP Baltic =======
+http://admin-mainpanel.club:8080/Susie/Susie/23476
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RUS: ONE 4K" tvg-logo="" group-title="Live: Russia & UA-BY",VIP RUS: ONE 4K
+http://admin-mainpanel.club:8080/Susie/Susie/23477
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RUS: EUROSPORT 4K" tvg-logo="" group-title="Live: Russia & UA-BY",VIP RUS: EUROSPORT 4K
+http://admin-mainpanel.club:8080/Susie/Susie/23478
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RUS: Ultra Cinema 4K" tvg-logo="" group-title="Live: Russia & UA-BY",VIP RUS: Ultra Cinema 4K
+http://admin-mainpanel.club:8080/Susie/Susie/23479
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Setanta Sports HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Setanta Sports HD
+http://admin-mainpanel.club:8080/Susie/Susie/30626
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Futbol 1HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Futbol 1HD
+http://admin-mainpanel.club:8080/Susie/Susie/6115
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Futbol 2HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Futbol 2HD
+http://admin-mainpanel.club:8080/Susie/Susie/21624
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Futbol 3HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Futbol 3HD
+http://admin-mainpanel.club:8080/Susie/Susie/45314
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Sport 1" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Sport 1
+http://admin-mainpanel.club:8080/Susie/Susie/6489
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Sport 2" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Sport 2
+http://admin-mainpanel.club:8080/Susie/Susie/6490
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: 1+1" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 1+1
+http://admin-mainpanel.club:8080/Susie/Susie/21623
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 112 UKRAINE" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 112 UKRAINE
+http://admin-mainpanel.club:8080/Susie/Susie/60377
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 1Plus1 International" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 1Plus1 International
+http://admin-mainpanel.club:8080/Susie/Susie/60378
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: 2+2" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 2+2
+http://admin-mainpanel.club:8080/Susie/Susie/21620
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 24 Kanal HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 24 Kanal HD
+http://admin-mainpanel.club:8080/Susie/Susie/60379
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 34" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 34
+http://admin-mainpanel.club:8080/Susie/Susie/60380
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 34 chanel" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 34 chanel
+http://admin-mainpanel.club:8080/Susie/Susie/60382
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 34 TELEKANAL" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 34 TELEKANAL
+http://admin-mainpanel.club:8080/Susie/Susie/60381
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: 5 KANAL" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 5 KANAL
+http://admin-mainpanel.club:8080/Susie/Susie/21621
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: 7 Kanal HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: 7 Kanal HD
+http://admin-mainpanel.club:8080/Susie/Susie/60383
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: ATR HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ATR HD
+http://admin-mainpanel.club:8080/Susie/Susie/60384
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: AVERS" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: AVERS
+http://admin-mainpanel.club:8080/Susie/Susie/60385
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Bigudi" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Bigudi
+http://admin-mainpanel.club:8080/Susie/Susie/60386
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: DACHA" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: DACHA
+http://admin-mainpanel.club:8080/Susie/Susie/60387
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Donbass" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Donbass
+http://admin-mainpanel.club:8080/Susie/Susie/60389
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: DOTV !" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: DOTV !
+http://admin-mainpanel.club:8080/Susie/Susie/60388
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Eko-TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Eko-TV
+http://admin-mainpanel.club:8080/Susie/Susie/60391
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: ENTER FILM" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ENTER FILM
+http://admin-mainpanel.club:8080/Susie/Susie/21622
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: ESPRESOTV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ESPRESOTV
+http://admin-mainpanel.club:8080/Susie/Susie/60390
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Futbol 1" tvg-logo="[" group-title="Live: Russia & UA-BY",VIP UA: Futbol 1
+http://admin-mainpanel.club:8080/Susie/Susie/5208
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: Futbol 2" tvg-logo="[" group-title="Live: Russia & UA-BY",VIP UA: Futbol 2
+http://admin-mainpanel.club:8080/Susie/Susie/5207
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: HD FASHION" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: HD FASHION
+http://admin-mainpanel.club:8080/Susie/Susie/60392
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Horizont" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Horizont
+http://admin-mainpanel.club:8080/Susie/Susie/60394
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: HTH" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: HTH
+http://admin-mainpanel.club:8080/Susie/Susie/60393
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: ICTV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ICTV
+http://admin-mainpanel.club:8080/Susie/Susie/60395
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: INDIGO" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: INDIGO
+http://admin-mainpanel.club:8080/Susie/Susie/60396
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: INTER" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: INTER
+http://admin-mainpanel.club:8080/Susie/Susie/21619
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: INTER PLUS" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: INTER PLUS
+http://admin-mainpanel.club:8080/Susie/Susie/60397
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: K1" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: K1
+http://admin-mainpanel.club:8080/Susie/Susie/60398
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: K2" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: K2
+http://admin-mainpanel.club:8080/Susie/Susie/60399
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: KRT" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: KRT
+http://admin-mainpanel.club:8080/Susie/Susie/60400
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Kultura" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Kultura
+http://admin-mainpanel.club:8080/Susie/Susie/60401
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Kvartal TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Kvartal TV
+http://admin-mainpanel.club:8080/Susie/Susie/60402
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: LALE" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: LALE
+http://admin-mainpanel.club:8080/Susie/Susie/60403
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: M1" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: M1
+http://admin-mainpanel.club:8080/Susie/Susie/60404
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: M2" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: M2
+http://admin-mainpanel.club:8080/Susie/Susie/60405
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: M2 Estrada" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: M2 Estrada
+http://admin-mainpanel.club:8080/Susie/Susie/60406
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Malyatko" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Malyatko
+http://admin-mainpanel.club:8080/Susie/Susie/60410
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: MAXXI TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: MAXXI TV
+http://admin-mainpanel.club:8080/Susie/Susie/60407
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: MEGA" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: MEGA
+http://admin-mainpanel.club:8080/Susie/Susie/60408
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: MILADY TELEVISION" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: MILADY TELEVISION
+http://admin-mainpanel.club:8080/Susie/Susie/60409
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Music-Box" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Music-Box
+http://admin-mainpanel.club:8080/Susie/Susie/60411
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Nadia" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Nadia
+http://admin-mainpanel.club:8080/Susie/Susie/60417
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: NEWS 24 HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: NEWS 24 HD
+http://admin-mainpanel.club:8080/Susie/Susie/60412
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: News Network" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: News Network
+http://admin-mainpanel.club:8080/Susie/Susie/60418
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: NEWS ONE HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: NEWS ONE HD
+http://admin-mainpanel.club:8080/Susie/Susie/60413
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: NIKI Kids" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: NIKI Kids
+http://admin-mainpanel.club:8080/Susie/Susie/60414
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: NLOTV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: NLOTV
+http://admin-mainpanel.club:8080/Susie/Susie/60415
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: NOVY KANAL" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: NOVY KANAL
+http://admin-mainpanel.club:8080/Susie/Susie/60416
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: OTV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: OTV
+http://admin-mainpanel.club:8080/Susie/Susie/60419
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Pervy-delovoy !" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Pervy-delovoy !
+http://admin-mainpanel.club:8080/Susie/Susie/60421
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Peshiy" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Peshiy
+http://admin-mainpanel.club:8080/Susie/Susie/60422
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: PIKSELTV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: PIKSELTV
+http://admin-mainpanel.club:8080/Susie/Susie/60420
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Plus Plus" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Plus Plus
+http://admin-mainpanel.club:8080/Susie/Susie/60423
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: QTV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: QTV
+http://admin-mainpanel.club:8080/Susie/Susie/60424
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Rada" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Rada
+http://admin-mainpanel.club:8080/Susie/Susie/60425
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: STB" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: STB
+http://admin-mainpanel.club:8080/Susie/Susie/21626
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: TELEKANAL_UKRAINA" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: TELEKANAL_UKRAINA
+http://admin-mainpanel.club:8080/Susie/Susie/60426
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: TET" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: TET
+http://admin-mainpanel.club:8080/Susie/Susie/21628
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Tonis" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Tonis
+http://admin-mainpanel.club:8080/Susie/Susie/60427
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: TRK Ukrania" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: TRK Ukrania
+http://admin-mainpanel.club:8080/Susie/Susie/42525
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: Tysa 1" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: Tysa 1
+http://admin-mainpanel.club:8080/Susie/Susie/60428
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: UA Krym" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: UA Krym
+http://admin-mainpanel.club:8080/Susie/Susie/60429
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: UA TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: UA TV
+http://admin-mainpanel.club:8080/Susie/Susie/60430
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: UKRAINA" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: UKRAINA
+http://admin-mainpanel.club:8080/Susie/Susie/60431
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UA: UNIAN TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: UNIAN TV
+http://admin-mainpanel.club:8080/Susie/Susie/21627
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: VIASAT BLACK SEA TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: VIASAT BLACK SEA TV
+http://admin-mainpanel.club:8080/Susie/Susie/60432
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: VINTAGE TV" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: VINTAGE TV
+http://admin-mainpanel.club:8080/Susie/Susie/60433
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: X SPORT" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: X SPORT
+http://admin-mainpanel.club:8080/Susie/Susie/60434
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: ZIK" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ZIK
+http://admin-mainpanel.club:8080/Susie/Susie/60435
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: ZIK HD" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ZIK HD
+http://admin-mainpanel.club:8080/Susie/Susie/60436
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UA: ZOOM" tvg-logo="" group-title="Live: Russia & UA-BY",VIP UA: ZOOM
+http://admin-mainpanel.club:8080/Susie/Susie/60437
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Germany =====" tvg-logo="" group-title="",===== Germany =====
+http://admin-mainpanel.club:8080/Susie/Susie/1199
+#EXTINF:-1 tvg-ID="13thstreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="" group-title="Live: Germany & Austria",DE: 13TH STREET HD
+http://admin-mainpanel.club:8080/Susie/Susie/5359
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="DE: 3Sat HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: 3Sat HD
+http://admin-mainpanel.club:8080/Susie/Susie/1355
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Alex Berlin HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Alex Berlin HD
+http://admin-mainpanel.club:8080/Susie/Susie/35244
+#EXTINF:-1 tvg-ID="aande.de" tvg-name="DE: Allgau TV FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Allgau TV FHD
+http://admin-mainpanel.club:8080/Susie/Susie/1356
+#EXTINF:-1 tvg-ID="animalplanet.de" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ANIMAL PLANET HD
+http://admin-mainpanel.club:8080/Susie/Susie/5348
+#EXTINF:-1 tvg-ID="anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: ANIXE HD
+http://admin-mainpanel.club:8080/Susie/Susie/7559
+#EXTINF:-1 tvg-ID="atv.de" tvg-name="DE: ARD Alpha HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: ARD Alpha HD
+http://admin-mainpanel.club:8080/Susie/Susie/2565
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="DE: ARD HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ARD HD
+http://admin-mainpanel.club:8080/Susie/Susie/4659
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: ARD Tagesschau 24 HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: ARD Tagesschau 24 HD
+http://admin-mainpanel.club:8080/Susie/Susie/2566
+#EXTINF:-1 tvg-ID="arte.de" tvg-name="DE: Arte HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Arte HD
+http://admin-mainpanel.club:8080/Susie/Susie/134
+#EXTINF:-1 tvg-ID="axn.de" tvg-name="DE: AXN HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: AXN HD
+http://admin-mainpanel.club:8080/Susie/Susie/1616
+#EXTINF:-1 tvg-ID="babytv.de" tvg-name="DE: Baby TV" tvg-logo="" group-title="Live: Germany & Austria",DE: Baby TV
+http://admin-mainpanel.club:8080/Susie/Susie/12865
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bibel TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Bibel TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35245
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bibel TV Impuls HD DE" tvg-logo="" group-title="Live: Germany & Austria",DE: Bibel TV Impuls HD DE
+http://admin-mainpanel.club:8080/Susie/Susie/35246
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bibel TV Musik HD DE" tvg-logo="" group-title="Live: Germany & Austria",DE: Bibel TV Musik HD DE
+http://admin-mainpanel.club:8080/Susie/Susie/35247
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: QVC Style HD" tvg-logo="" group-title="Live: Germany & Austria",DE: QVC Style HD
+http://admin-mainpanel.club:8080/Susie/Susie/35264
+#EXTINF:-1 tvg-ID="boomerang.de" tvg-name="DE: Boomerang" tvg-logo="" group-title="Live: Germany & Austria",DE: Boomerang
+http://admin-mainpanel.club:8080/Susie/Susie/7551
+#EXTINF:-1 tvg-ID="br.de" tvg-name="DE: BR" tvg-logo="[""]" group-title="Live: Germany & Austria",DE: BR
+http://admin-mainpanel.club:8080/Susie/Susie/2561
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bundestag Kanal 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Bundestag Kanal 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35248
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bundestag Kanal 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Bundestag Kanal 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35249
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: BW Family TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: BW Family TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35250
+#EXTINF:-1 tvg-ID="cartoonnetwork.de" tvg-name="DE: Cartoon Network" tvg-logo="[" group-title="Live: Germany & Austria",DE: Cartoon Network
+http://admin-mainpanel.club:8080/Susie/Susie/7576
+#EXTINF:-1 tvg-ID="classica.de" tvg-name="DE: Classica" tvg-logo="" group-title="Live: Germany & Austria",DE: Classica
+http://admin-mainpanel.club:8080/Susie/Susie/1325
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Crime Investigation HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Crime Investigation HD
+http://admin-mainpanel.club:8080/Susie/Susie/35265
+#EXTINF:-1 tvg-ID="deluxemusic.de" tvg-name="DE: Deluxe Music HD" tvg-logo="[""]" group-title="Live: Germany & Austria",DE: Deluxe Music HD
+http://admin-mainpanel.club:8080/Susie/Susie/7562
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Deluxe Music HD
+http://admin-mainpanel.club:8080/Susie/Susie/35252
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deutsche Welle TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Deutsche Welle TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35253
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deutsches Musik Fernsehen" tvg-logo="" group-title="Live: Germany & Austria",DE: Deutsches Musik Fernsehen
+http://admin-mainpanel.club:8080/Susie/Susie/35255
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deutsches Musik HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Deutsches Musik HD
+http://admin-mainpanel.club:8080/Susie/Susie/35254
+#EXTINF:-1 tvg-ID="discoverychannel.de" tvg-name="DE: Discovery HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Discovery HD
+http://admin-mainpanel.club:8080/Susie/Susie/1324
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Disney Channel HD
+http://admin-mainpanel.club:8080/Susie/Susie/7575
+#EXTINF:-1 tvg-ID="disneycinemagic.de" tvg-name="DE: DISNEY CINEMAGIC HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: DISNEY CINEMAGIC HD
+http://admin-mainpanel.club:8080/Susie/Susie/5366
+#EXTINF:-1 tvg-ID="disneyjunior.de" tvg-name="DE: DISNEY JUNIOR HD" tvg-logo="" group-title="Live: Germany & Austria",DE: DISNEY JUNIOR HD
+http://admin-mainpanel.club:8080/Susie/Susie/5365
+#EXTINF:-1 tvg-ID="disneyxd.de" tvg-name="DE: Disney XD" tvg-logo="" group-title="Live: Germany & Austria",DE: Disney XD
+http://admin-mainpanel.club:8080/Susie/Susie/1320
+#EXTINF:-1 tvg-ID="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="" group-title="Live: Germany & Austria",DE: DMAX HD
+http://admin-mainpanel.club:8080/Susie/Susie/7557
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Donau TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Donau TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35256
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: DRF1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: DRF1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35257
+#EXTINF:-1 tvg-ID="deutschewelle.de" tvg-name="DE: DW TV" tvg-logo="" group-title="Live: Germany & Austria",DE: DW TV
+http://admin-mainpanel.club:8080/Susie/Susie/7563
+#EXTINF:-1 tvg-ID="eentertainment.de" tvg-name="DE: E Entertainm HD" tvg-logo="[""]" group-title="Live: Germany & Austria",DE: E Entertainm HD
+http://admin-mainpanel.club:8080/Susie/Susie/7564
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: EBS  Kanal 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: EBS  Kanal 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35258
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: ERF 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ERF 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35259
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: erzTV Erzgebirge HD" tvg-logo="" group-title="Live: Germany & Austria",DE: erzTV Erzgebirge HD
+http://admin-mainpanel.club:8080/Susie/Susie/35260
+#EXTINF:-1 tvg-ID="sport1us.de" tvg-name="DE: ESport 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ESport 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7584
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: EuroNews Deutsch HD" tvg-logo="" group-title="Live: Germany & Austria",DE: EuroNews Deutsch HD
+http://admin-mainpanel.club:8080/Susie/Susie/35261
+#EXTINF:-1 tvg-ID="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Eurosport 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7580
+#EXTINF:-1 tvg-ID="eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Eurosport 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7581
+#EXTINF:-1 tvg-ID="eurosport2xtra.de" tvg-name="DE: Eurosport 2 Xtra" tvg-logo="" group-title="Live: Germany & Austria",DE: Eurosport 2 Xtra
+http://admin-mainpanel.club:8080/Susie/Susie/13663
+#EXTINF:-1 tvg-ID="familytv.de" tvg-name="DE: FAMILY TV" tvg-logo="" group-title="Live: Germany & Austria",DE: FAMILY TV
+http://admin-mainpanel.club:8080/Susie/Susie/5347
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Folx TV" tvg-logo="" group-title="Live: Germany & Austria",DE: Folx TV
+http://admin-mainpanel.club:8080/Susie/Susie/35262
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Folx TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Folx TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35263
+#EXTINF:-1 tvg-ID="fox.de" tvg-name="DE: FOX HD" tvg-logo="" group-title="Live: Germany & Austria",DE: FOX HD
+http://admin-mainpanel.club:8080/Susie/Susie/1618
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Fox Serie HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Fox Serie HD
+http://admin-mainpanel.club:8080/Susie/Susie/7550
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: GO TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: GO TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35266
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Hanover 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Hanover 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35267
+#EXTINF:-1 tvg-ID="sachsenfernsehen.de" tvg-name="DE: Health TV HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Health TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/12590
+#EXTINF:-1 tvg-ID="heimatkanal.de" tvg-name="DE: HEIMATKANAL" tvg-logo="" group-title="Live: Germany & Austria",DE: HEIMATKANAL
+http://admin-mainpanel.club:8080/Susie/Susie/5350
+#EXTINF:-1 tvg-ID="history.de" tvg-name="DE: HISTORY HD" tvg-logo="" group-title="Live: Germany & Austria",DE: HISTORY HD
+http://admin-mainpanel.club:8080/Susie/Susie/5362
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: HitArena NRW TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: HitArena NRW TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35268
+#EXTINF:-1 tvg-ID="hr.de" tvg-name="DE: HR" tvg-logo="[" group-title="Live: Germany & Austria",DE: HR
+http://admin-mainpanel.club:8080/Susie/Susie/2567
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Isar-TV Landshut HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Isar-TV Landshut HD
+http://admin-mainpanel.club:8080/Susie/Susie/35269
+#EXTINF:-1 tvg-ID="jukebox.de" tvg-name="DE: JUKEBOX" tvg-logo="[" group-title="Live: Germany & Austria",DE: JUKEBOX
+http://admin-mainpanel.club:8080/Susie/Susie/5364
+#EXTINF:-1 tvg-ID="junior.de" tvg-name="DE: JUNIOR" tvg-logo="" group-title="Live: Germany & Austria",DE: JUNIOR
+http://admin-mainpanel.club:8080/Susie/Susie/5367
+#EXTINF:-1 tvg-ID="kabeleinsclassic.de" tvg-name="DE: Kabel 1 Classic HD" tvg-logo="[""]" group-title="Live: Germany & Austria",DE: Kabel 1 Classic HD
+http://admin-mainpanel.club:8080/Susie/Susie/21660
+#EXTINF:-1 tvg-ID="kabeleinsdoku.de" tvg-name="DE: Kabel 1 Docu HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Kabel 1 Docu HD
+http://admin-mainpanel.club:8080/Susie/Susie/7556
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="DE: Kabel 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Kabel 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/131
+#EXTINF:-1 tvg-ID="kika.de" tvg-name="DE: KIKA HD" tvg-logo="" group-title="Live: Germany & Austria",DE: KIKA HD
+http://admin-mainpanel.club:8080/Susie/Susie/5355
+#EXTINF:-1 tvg-ID="kinowelt.de" tvg-name="DE: KINOWELT HD" tvg-logo="" group-title="Live: Germany & Austria",DE: KINOWELT HD
+http://admin-mainpanel.club:8080/Susie/Susie/5361
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Kronehit TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Kronehit TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35270
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Leipzig TV FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Leipzig TV FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35271
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Light Channel HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Light Channel HD
+http://admin-mainpanel.club:8080/Susie/Susie/35272
+#EXTINF:-1 tvg-ID="mdr.de" tvg-name="DE: MDR HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: MDR HD
+http://admin-mainpanel.club:8080/Susie/Susie/7570
+#EXTINF:-1 tvg-ID="motorvision.de" tvg-name="DE: Motorvision TV" tvg-logo="" group-title="Live: Germany & Austria",DE: Motorvision TV
+http://admin-mainpanel.club:8080/Susie/Susie/7582
+#EXTINF:-1 tvg-ID="mtvgermany.de" tvg-name="DE: MTV HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: MTV HD
+http://admin-mainpanel.club:8080/Susie/Susie/7561
+#EXTINF:-1 tvg-ID="munchentv.de" tvg-name="DE: Munchen TV" tvg-logo="" group-title="Live: Germany & Austria",DE: Munchen TV
+http://admin-mainpanel.club:8080/Susie/Susie/12589
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: MusicTop HD" tvg-logo="" group-title="Live: Germany & Austria",DE: MusicTop HD
+http://admin-mainpanel.club:8080/Susie/Susie/35273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Musik One 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Musik One 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35274
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Musik One HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Musik One HD
+http://admin-mainpanel.club:8080/Susie/Susie/35275
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="DE: N-TV HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: N-TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/5356
+#EXTINF:-1 tvg-ID="n24doku.de" tvg-name="DE: N24 Doku" tvg-logo="[" group-title="Live: Germany & Austria",DE: N24 Doku
+http://admin-mainpanel.club:8080/Susie/Susie/26991
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: naheTV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: naheTV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35276
+#EXTINF:-1 tvg-ID="natgeo.de" tvg-name="DE: Nat GEO HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Nat GEO HD
+http://admin-mainpanel.club:8080/Susie/Susie/1314
+#EXTINF:-1 tvg-ID="natgeowild.de" tvg-name="DE: Nat Geo Wild HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Nat Geo Wild HD
+http://admin-mainpanel.club:8080/Susie/Susie/1313
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Hamburg HD" tvg-logo="" group-title="Live: Germany & Austria",DE: NDR Hamburg HD
+http://admin-mainpanel.club:8080/Susie/Susie/35277
+#EXTINF:-1 tvg-ID="ndr.de" tvg-name="DE: Ndr HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Ndr HD
+http://admin-mainpanel.club:8080/Susie/Susie/1348
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Mecklenburg-Vorpommern HD" tvg-logo="" group-title="Live: Germany & Austria",DE: NDR Mecklenburg-Vorpommern HD
+http://admin-mainpanel.club:8080/Susie/Susie/35278
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Niedersachsen HD" tvg-logo="" group-title="Live: Germany & Austria",DE: NDR Niedersachsen HD
+http://admin-mainpanel.club:8080/Susie/Susie/35279
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Schleswig-Holstein HD" tvg-logo="" group-title="Live: Germany & Austria",DE: NDR Schleswig-Holstein HD
+http://admin-mainpanel.club:8080/Susie/Susie/35280
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Nice DEF TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Nice DEF TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35281
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV OBERFRANKEN HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TV OBERFRANKEN HD
+http://admin-mainpanel.club:8080/Susie/Susie/35282
+#EXTINF:-1 tvg-ID="nickelodeon.de" tvg-name="DE: Nick/Comedy Central" tvg-logo="" group-title="Live: Germany & Austria",DE: Nick/Comedy Central
+http://admin-mainpanel.club:8080/Susie/Susie/7578
+#EXTINF:-1 tvg-ID="nickelodeon.de" tvg-name="DE: Nickelodeon HD" tvg-logo="[""]" group-title="Live: Germany & Austria",DE: Nickelodeon HD
+http://admin-mainpanel.club:8080/Susie/Susie/7577
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: noa4 Hamburg HD" tvg-logo="" group-title="Live: Germany & Austria",DE: noa4 Hamburg HD
+http://admin-mainpanel.club:8080/Susie/Susie/35283
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: noa4 Norderstedt HD" tvg-logo="" group-title="Live: Germany & Austria",DE: noa4 Norderstedt HD
+http://admin-mainpanel.club:8080/Susie/Susie/35284
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Nrwision HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Nrwision HD
+http://admin-mainpanel.club:8080/Susie/Susie/35285
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Oberpfalz TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Oberpfalz TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35286
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Ócko HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Ócko HD
+http://admin-mainpanel.club:8080/Susie/Susie/35287
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Ócko Star HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Ócko Star HD
+http://admin-mainpanel.club:8080/Susie/Susie/35288
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: OE24.TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: OE24.TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35289
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: OKD HD" tvg-logo="" group-title="Live: Germany & Austria",DE: OKD HD
+http://admin-mainpanel.club:8080/Susie/Susie/35290
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: HGTV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: HGTV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35291
+#EXTINF:-1 tvg-ID="one.de" tvg-name="DE: ONE HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: ONE HD
+http://admin-mainpanel.club:8080/Susie/Susie/12587
+#EXTINF:-1 tvg-ID="ORF eins DE" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ORF 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/1622
+#EXTINF:-1 tvg-ID="ORF 2 DE" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ORF 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/1346
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="DE: Phoenix HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Phoenix HD
+http://admin-mainpanel.club:8080/Susie/Susie/7558
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Pilatus Beatz TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Pilatus Beatz TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35292
+#EXTINF:-1 tvg-ID="planet.de" tvg-name="DE: Planet HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Planet HD
+http://admin-mainpanel.club:8080/Susie/Susie/2564
+#EXTINF:-1 tvg-ID="prosiebenfun.de" tvg-name="DE: PRO 7 FUN HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: PRO 7 FUN HD
+http://admin-mainpanel.club:8080/Susie/Susie/6094
+#EXTINF:-1 tvg-ID="prosiebenmaxx.de" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="" group-title="Live: Germany & Austria",DE: PRO 7 MAXX HD
+http://admin-mainpanel.club:8080/Susie/Susie/1621
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="DE: ProSieben HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ProSieben HD
+http://admin-mainpanel.club:8080/Susie/Susie/127
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Radio Contact HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Radio Contact HD
+http://admin-mainpanel.club:8080/Susie/Susie/35293
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Regio TV Schwaben FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Regio TV Schwaben FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35294
+#EXTINF:-1 tvg-ID="rbb.de" tvg-name="DE: RBB" tvg-logo="" group-title="Live: Germany & Austria",DE: RBB
+http://admin-mainpanel.club:8080/Susie/Susie/2562
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Regio TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Regio TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35295
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Retro Music TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Retro Music TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/35296
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: RFO HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RFO HD
+http://admin-mainpanel.club:8080/Susie/Susie/35297
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: RFH HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RFH HD
+http://admin-mainpanel.club:8080/Susie/Susie/35298
+#EXTINF:-1 tvg-ID="romance.de" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Romance TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/1311
+#EXTINF:-1 tvg-ID="rtlcrime.de" tvg-name="DE: RTL Crime HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: RTL Crime HD
+http://admin-mainpanel.club:8080/Susie/Susie/5349
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RTL HD
+http://admin-mainpanel.club:8080/Susie/Susie/125
+#EXTINF:-1 tvg-ID="rtlliving.de" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RTL Living HD
+http://admin-mainpanel.club:8080/Susie/Susie/1309
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="DE: RTL Nitro HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RTL Nitro HD
+http://admin-mainpanel.club:8080/Susie/Susie/119
+#EXTINF:-1 tvg-ID="rtlpassion.de" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RTL Passion HD
+http://admin-mainpanel.club:8080/Susie/Susie/117
+#EXTINF:-1 tvg-ID="rtlplus.de" tvg-name="DE: RTL Plus" tvg-logo="" group-title="Live: Germany & Austria",DE: RTL Plus
+http://admin-mainpanel.club:8080/Susie/Susie/7554
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="DE: RTL2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: RTL2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/126
+#EXTINF:-1 tvg-ID="sat1emotions.de" tvg-name="DE: SAT 1 Emotions" tvg-logo="" group-title="Live: Germany & Austria",DE: SAT 1 Emotions
+http://admin-mainpanel.club:8080/Susie/Susie/7566
+#EXTINF:-1 tvg-ID="sat1gold.de" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SAT 1 GOLD HD
+http://admin-mainpanel.club:8080/Susie/Susie/5353
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SAT 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/128
+#EXTINF:-1 tvg-ID="DEServusTVHD" tvg-name="DE: Servus TV HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Servus TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/2563
+#EXTINF:-1 tvg-ID="sixx.de" tvg-name="DE: Sixx HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sixx HD
+http://admin-mainpanel.club:8080/Susie/Susie/132
+#EXTINF:-1 tvg-ID="sky1.de" tvg-name="DE: SKY 1HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY 1HD
+http://admin-mainpanel.club:8080/Susie/Susie/7870
+#EXTINF:-1 tvg-ID="skyatlantic.de" tvg-name="DE: Sky Atlantic HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sky Atlantic HD
+http://admin-mainpanel.club:8080/Susie/Susie/112
+#EXTINF:-1 tvg-ID="skyatlantic.de" tvg-name="DE: Sky Atlantic +1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Atlantic +1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7547
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sky Cinema Fast & Furios FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Fast & Furios FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35309
+#EXTINF:-1 tvg-ID="skyaction.de" tvg-name="DE: Sky Cinema Action HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Action HD
+http://admin-mainpanel.club:8080/Susie/Susie/107
+#EXTINF:-1 tvg-ID="skycinemaplus24.de" tvg-name="DE: Sky Cinema Premieren+24 FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Premieren+24 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/7546
+#EXTINF:-1 tvg-ID="skycinemaplus1.de" tvg-name="DE: Sky Cinema +1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema +1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7545
+#EXTINF:-1 tvg-ID="skycinema.de" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Premieren HD
+http://admin-mainpanel.club:8080/Susie/Susie/106
+#EXTINF:-1 tvg-ID="skycomedy.de" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Fun HD
+http://admin-mainpanel.club:8080/Susie/Susie/108
+#EXTINF:-1 tvg-ID="skyfamily.de" tvg-name="DE: Sky Cinema Family HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sky Cinema Family HD
+http://admin-mainpanel.club:8080/Susie/Susie/12864
+#EXTINF:-1 tvg-ID="skyhits.de" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Best Of HD
+http://admin-mainpanel.club:8080/Susie/Susie/111
+#EXTINF:-1 tvg-ID="skyemotion.de" tvg-name="DE: Sky Cinema Thriller FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Thriller FHD
+http://admin-mainpanel.club:8080/Susie/Susie/109
+#EXTINF:-1 tvg-ID="skynostalgie.de" tvg-name="DE: Sky Cinema Classic" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Cinema Classic
+http://admin-mainpanel.club:8080/Susie/Susie/110
+#EXTINF:-1 tvg-ID="skykrimi.de" tvg-name="DE: Sky Krimi FHD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Krimi FHD
+http://admin-mainpanel.club:8080/Susie/Susie/114
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sky Bundesliga 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/539
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD ( During Games only )" tvg-logo="[" group-title="Live: Germany & Austria",DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1344
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE: Sky BUNDESLIGA 3 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1343
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE: Sky BUNDESLIGA 4 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1342
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE: Sky BUNDESLIGA 5 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1341
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE: Sky BUNDESLIGA 6 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1340
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE: Sky BUNDESLIGA 7 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1339
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE: Sky BUNDESLIGA 8 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1338
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE: Sky BUNDESLIGA 9 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1337
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE: Sky BUNDESLIGA 10 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1345
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Popcorn Select 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26952
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Popcorn Select 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26951
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 3 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Popcorn Select 3 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26950
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 4 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Popcorn Select 4 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26949
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 5 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Popcorn Select 5 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26948
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 6 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Popcorn Select 6 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26947
+#EXTINF:-1 tvg-ID="skyselect1.de" tvg-name="DE: SKY SELECT 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7210
+#EXTINF:-1 tvg-ID="skyselect2.de" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/446
+#EXTINF:-1 tvg-ID="skyselect3.de" tvg-name="DE: SKY SELECT 3 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 3 HD
+http://admin-mainpanel.club:8080/Susie/Susie/447
+#EXTINF:-1 tvg-ID="skyselect4.de" tvg-name="DE: SKY SELECT 4 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 4 HD
+http://admin-mainpanel.club:8080/Susie/Susie/448
+#EXTINF:-1 tvg-ID="skyselect5.de" tvg-name="DE: SKY SELECT 5 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 5 HD
+http://admin-mainpanel.club:8080/Susie/Susie/475
+#EXTINF:-1 tvg-ID="skyselect6.de" tvg-name="DE: SKY SELECT 6 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 6 HD
+http://admin-mainpanel.club:8080/Susie/Susie/474
+#EXTINF:-1 tvg-ID="skyselect7.de" tvg-name="DE: SKY SELECT 7 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 7 HD
+http://admin-mainpanel.club:8080/Susie/Susie/2568
+#EXTINF:-1 tvg-ID="skyselect8.de" tvg-name="DE: SKY SELECT 8 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SKY SELECT 8 HD
+http://admin-mainpanel.club:8080/Susie/Susie/2569
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/121
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/540
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="DE: Sky Sport 3 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 3 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/7487
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="DE: Sky Sport 4 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 4 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1333
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="DE: Sky Sport 5 HD  ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 5 HD  ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1332
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="DE: Sky Sport 6 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 6 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1331
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="DE: Sky Sport 7 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 7 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1330
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="DE: Sky Sport 8 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 8 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1329
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE: Sky Sport 9 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 9 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1328
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE: Sky Sport 10 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 10 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1335
+#EXTINF:-1 tvg-ID="skysport11.de" tvg-name="DE: Sky Sport 11 HD ( During Games only )" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport 11 HD ( During Games only )
+http://admin-mainpanel.club:8080/Susie/Susie/1334
+#EXTINF:-1 tvg-ID="Sky Sport Austria DE" tvg-name="DE: Sky Sport Austria HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sport Austria HD
+http://admin-mainpanel.club:8080/Susie/Susie/122
+#EXTINF:-1 tvg-ID="skysportnews.de" tvg-name="DE: Sky Sports News HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sky Sports News HD
+http://admin-mainpanel.club:8080/Susie/Susie/120
+#EXTINF:-1 tvg-ID="sonnenklar.de" tvg-name="DE: Sonnenklar TV HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sonnenklar TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/12867
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sonus FM TV HD DE (visual Radio) HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sonus FM TV HD DE (visual Radio) HD
+http://admin-mainpanel.club:8080/Susie/Susie/35299
+#EXTINF:-1 tvg-ID="sonyentertainmenttv.de" tvg-name="DE: Sony HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sony HD
+http://admin-mainpanel.club:8080/Susie/Susie/115
+#EXTINF:-1 tvg-ID="spiegelgeschichte.de" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="[""]" group-title="Live: Germany & Austria",DE: Spiegel Geschichte HD
+http://admin-mainpanel.club:8080/Susie/Susie/7552
+#EXTINF:-1 tvg-ID="spiegeltvwissen.de" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Spiegel TV Wissen HD
+http://admin-mainpanel.club:8080/Susie/Susie/5363
+#EXTINF:-1 tvg-ID="sport1.de" tvg-name="DE: Sport1 HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sport1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7583
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sport1+ HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sport1+ HD
+http://admin-mainpanel.club:8080/Susie/Susie/35324
+#EXTINF:-1 tvg-ID="sportdigital.de" tvg-name="DE: Sportdigital HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Sportdigital HD
+http://admin-mainpanel.club:8080/Susie/Susie/123
+#EXTINF:-1 tvg-ID="sachsenfernsehen.de" tvg-name="DE: Sky Serien & Shows FHD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Sky Serien & Shows FHD
+http://admin-mainpanel.club:8080/Susie/Susie/7569
+#EXTINF:-1 tvg-ID="superrtl.de" tvg-name="DE: Super RTL HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Super RTL HD
+http://admin-mainpanel.club:8080/Susie/Susie/130
+#EXTINF:-1 tvg-ID="swrsr.de" tvg-name="DE: SWR HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SWR HD
+http://admin-mainpanel.club:8080/Susie/Susie/7568
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: SR HD" tvg-logo="" group-title="Live: Germany & Austria",DE: SR HD
+http://admin-mainpanel.club:8080/Susie/Susie/35300
+#EXTINF:-1 tvg-ID="syfy.de" tvg-name="DE: Syfy HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Syfy HD
+http://admin-mainpanel.club:8080/Susie/Susie/116
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: VOX UP" tvg-logo="" group-title="Live: Germany & Austria",DE: VOX UP
+http://admin-mainpanel.club:8080/Susie/Susie/35301
+#EXTINF:-1 tvg-ID="tagesschau24.de" tvg-name="DE: Tagesschau 24" tvg-logo="[" group-title="Live: Germany & Austria",DE: Tagesschau 24
+http://admin-mainpanel.club:8080/Susie/Susie/12591
+#EXTINF:-1 tvg-ID="tele5.de" tvg-name="DE: Tele 5 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Tele 5 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7567
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Tele Regional Passau HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Tele Regional Passau HD
+http://admin-mainpanel.club:8080/Susie/Susie/35302
+#EXTINF:-1 tvg-ID="tlc.de" tvg-name="DE: TLC HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TLC HD
+http://admin-mainpanel.club:8080/Susie/Susie/7565
+#EXTINF:-1 tvg-ID="tntcomedy.de" tvg-name="DE: TNT Comedy HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TNT Comedy HD
+http://admin-mainpanel.club:8080/Susie/Susie/1617
+#EXTINF:-1 tvg-ID="tntfilm.de" tvg-name="DE: TNT Film HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TNT Film HD
+http://admin-mainpanel.club:8080/Susie/Susie/7549
+#EXTINF:-1 tvg-ID="tntserie.de" tvg-name="DE: TNT SERIE HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TNT SERIE HD
+http://admin-mainpanel.club:8080/Susie/Susie/5360
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TOGGO Plus" tvg-logo="" group-title="Live: Germany & Austria",DE: TOGGO Plus
+http://admin-mainpanel.club:8080/Susie/Susie/35251
+#EXTINF:-1 tvg-ID="goldstartv.de" tvg-name="DE: Toggo Plus HD" tvg-logo="[" group-title="Live: Germany & Austria",DE: Toggo Plus HD
+http://admin-mainpanel.club:8080/Susie/Susie/5354
+#EXTINF:-1 tvg-ID="travelchannel.de" tvg-name="DE: QVC HD" tvg-logo="" group-title="Live: Germany & Austria",DE: QVC HD
+http://admin-mainpanel.club:8080/Susie/Susie/12866
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD DE Würzburg HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TV HD DE Würzburg HD
+http://admin-mainpanel.club:8080/Susie/Susie/35304
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD DEA  für Ostbayern HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TV HD DEA  für Ostbayern HD
+http://admin-mainpanel.club:8080/Susie/Susie/35305
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD DEM3 HD" tvg-logo="" group-title="Live: Germany & Austria",DE: TV HD DEM3 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35306
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD Mainfranken Würzburg" tvg-logo="" group-title="Live: Germany & Austria",DE: TV HD Mainfranken Würzburg
+http://admin-mainpanel.club:8080/Susie/Susie/35307
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD Oberfranken" tvg-logo="" group-title="Live: Germany & Austria",DE: TV HD Oberfranken
+http://admin-mainpanel.club:8080/Susie/Susie/35308
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: U1 Tirol/ Tiroler Heimat HD" tvg-logo="" group-title="Live: Germany & Austria",DE: U1 Tirol/ Tiroler Heimat HD
+http://admin-mainpanel.club:8080/Susie/Susie/35310
+#EXTINF:-1 tvg-ID="universal.de" tvg-name="DE: Universal HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Universal HD
+http://admin-mainpanel.club:8080/Susie/Susie/7553
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="DE: VOX HD" tvg-logo="" group-title="Live: Germany & Austria",DE: VOX HD
+http://admin-mainpanel.club:8080/Susie/Susie/129
+#EXTINF:-1 tvg-ID="wdr.de" tvg-name="DE: WDR" tvg-logo="" group-title="Live: Germany & Austria",DE: WDR
+http://admin-mainpanel.club:8080/Susie/Susie/2390
+#EXTINF:-1 tvg-ID="weltderwunder.de" tvg-name="DE: Welt der Wunder" tvg-logo="[" group-title="Live: Germany & Austria",DE: Welt der Wunder
+http://admin-mainpanel.club:8080/Susie/Susie/12592
+#EXTINF:-1 tvg-ID="welt.de" tvg-name="DE: WELT HD" tvg-logo="" group-title="Live: Germany & Austria",DE: WELT HD
+http://admin-mainpanel.club:8080/Susie/Susie/133
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ZDF HD
+http://admin-mainpanel.club:8080/Susie/Susie/655
+#EXTINF:-1 tvg-ID="zdfinfo.de" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ZDF Info HD
+http://admin-mainpanel.club:8080/Susie/Susie/1327
+#EXTINF:-1 tvg-ID="zdfneo.de" tvg-name="DE: ZDF neo" tvg-logo="" group-title="Live: Germany & Austria",DE: ZDF neo
+http://admin-mainpanel.club:8080/Susie/Susie/1326
+#EXTINF:-1 tvg-ID="zdfneo.de" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="Live: Germany & Austria",DE: ZDF NEO HD
+http://admin-mainpanel.club:8080/Susie/Susie/7572
+#EXTINF:-1 tvg-ID="zeeone.de" tvg-name="DE: Zee One HD" tvg-logo="" group-title="Live: Germany & Austria",DE: Zee One HD
+http://admin-mainpanel.club:8080/Susie/Susie/5357
+#EXTINF:-1 tvg-ID="" tvg-name="===== Austria =====" tvg-logo="" group-title="",===== Austria =====
+http://admin-mainpanel.club:8080/Susie/Susie/9184
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ATV HD" tvg-logo="" group-title="Live: Germany & Austria",AT: ATV HD
+http://admin-mainpanel.club:8080/Susie/Susie/9187
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ATV 2" tvg-logo="" group-title="Live: Germany & Austria",AT: ATV 2
+http://admin-mainpanel.club:8080/Susie/Susie/9186
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF1 HD" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/9190
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 HD" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/9189
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 B" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 B
+http://admin-mainpanel.club:8080/Susie/Susie/41492
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 K" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 K
+http://admin-mainpanel.club:8080/Susie/Susie/41493
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 N" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 N
+http://admin-mainpanel.club:8080/Susie/Susie/41494
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 O" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 O
+http://admin-mainpanel.club:8080/Susie/Susie/41495
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 S" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 S
+http://admin-mainpanel.club:8080/Susie/Susie/41496
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 St" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 St
+http://admin-mainpanel.club:8080/Susie/Susie/41497
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 T" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 T
+http://admin-mainpanel.club:8080/Susie/Susie/41498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 V" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 V
+http://admin-mainpanel.club:8080/Susie/Susie/41499
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 W" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF2 W
+http://admin-mainpanel.club:8080/Susie/Susie/41500
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF3 HD" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF3 HD
+http://admin-mainpanel.club:8080/Susie/Susie/9188
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF Sports HD" tvg-logo="" group-title="Live: Germany & Austria",AT: ORF Sports HD
+http://admin-mainpanel.club:8080/Susie/Susie/19182
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: PULS 4 Austria" tvg-logo="" group-title="Live: Germany & Austria",AT: PULS 4 Austria
+http://admin-mainpanel.club:8080/Susie/Susie/9185
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: AUSTRIA 24 Wien" tvg-logo="" group-title="Live: Germany & Austria",AT: AUSTRIA 24 Wien
+http://admin-mainpanel.club:8080/Susie/Susie/25800
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: R9" tvg-logo="" group-title="Live: Germany & Austria",AT: R9
+http://admin-mainpanel.club:8080/Susie/Susie/25797
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: Melodie TV NEU" tvg-logo="" group-title="Live: Germany & Austria",AT: Melodie TV NEU
+http://admin-mainpanel.club:8080/Susie/Susie/25796
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: Puls 24 HD" tvg-logo="" group-title="Live: Germany & Austria",AT: Puls 24 HD
+http://admin-mainpanel.club:8080/Susie/Susie/25798
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: OE24" tvg-logo="" group-title="Live: Germany & Austria",AT: OE24
+http://admin-mainpanel.club:8080/Susie/Susie/25799
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ServusTV HD" tvg-logo="" group-title="Live: Germany & Austria",AT: ServusTV HD
+http://admin-mainpanel.club:8080/Susie/Susie/25801
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: KroneHit TV" tvg-logo="" group-title="Live: Germany & Austria",AT: KroneHit TV
+http://admin-mainpanel.club:8080/Susie/Susie/25802
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: GOTV HD" tvg-logo="" group-title="Live: Germany & Austria",AT: GOTV HD
+http://admin-mainpanel.club:8080/Susie/Susie/25803
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: Dorf TV" tvg-logo="" group-title="Live: Germany & Austria",AT: Dorf TV
+http://admin-mainpanel.club:8080/Susie/Susie/25795
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP Australie =====" tvg-logo="" group-title="",===== VIP Australie =====
+http://admin-mainpanel.club:8080/Susie/Susie/10835
+#EXTINF:-1 tvg-ID="foxsportsnewshd.au" tvg-name="VIP AU: FOX SPORTS NEWS HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: FOX SPORTS NEWS HD
+http://admin-mainpanel.club:8080/Susie/Susie/13903
+#EXTINF:-1 tvg-ID="foxcrickethd.au" tvg-name="VIP AU: Fox Sports 501 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 501 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30970
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Fox Sports 501" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 501
+http://admin-mainpanel.club:8080/Susie/Susie/50372
+#EXTINF:-1 tvg-ID="foxleaguehd.au" tvg-name="VIP AU: Fox Sports 502 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 502 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30969
+#EXTINF:-1 tvg-ID="foxleaguehd.au" tvg-name="VIP AU: FOX Sport 502 HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: FOX Sport 502 HD
+http://admin-mainpanel.club:8080/Susie/Susie/17633
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Fox Sports 502" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 502
+http://admin-mainpanel.club:8080/Susie/Susie/50373
+#EXTINF:-1 tvg-ID="foxsports503hd.au" tvg-name="VIP AU: Fox Sports 503 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 503 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30968
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Fox Sports 503" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 503
+http://admin-mainpanel.club:8080/Susie/Susie/50374
+#EXTINF:-1 tvg-ID="foxfootyhd.au" tvg-name="VIP AU: Fox Sports 504 FHD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: Fox Sports 504 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30967
+#EXTINF:-1 tvg-ID="foxfootyhd.au" tvg-name="VIP AU: FOX Sport 504 HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: FOX Sport 504 HD
+http://admin-mainpanel.club:8080/Susie/Susie/16825
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Fox Sports 504" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 504
+http://admin-mainpanel.club:8080/Susie/Susie/50375
+#EXTINF:-1 tvg-ID="foxsports505hd.au" tvg-name="VIP AU: Fox Sports 505 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 505 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30966
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Fox Sports 505" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 505
+http://admin-mainpanel.club:8080/Susie/Susie/50376
+#EXTINF:-1 tvg-ID="foxsports506hd.au" tvg-name="VIP AU: Fox Sports 506 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 506 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30965
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Fox Sports 506" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 506
+http://admin-mainpanel.club:8080/Susie/Susie/50377
+#EXTINF:-1 tvg-ID="foxsportsmore.au" tvg-name="VIP AU: Fox Sports 507 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 507 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30964
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Fox Sports 507" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports 507
+http://admin-mainpanel.club:8080/Susie/Susie/50378
+#EXTINF:-1 tvg-ID="beinsports1hd.au" tvg-name="VIP AU: beIN Sports 1 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: beIN Sports 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30975
+#EXTINF:-1 tvg-ID="beinsports2hd.au" tvg-name="VIP AU: beIN Sports 2 FHD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: beIN Sports 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30974
+#EXTINF:-1 tvg-ID="beinsports3hd.au" tvg-name="VIP AU: beIN Sports 3 FHD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: beIN Sports 3 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30973
+#EXTINF:-1 tvg-ID="espnhd.au" tvg-name="VIP AU: ESPN 1 FHD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: ESPN 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30972
+#EXTINF:-1 tvg-ID="espn2hd.au" tvg-name="VIP AU: ESPN 2 FHD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: ESPN 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/30971
+#EXTINF:-1 tvg-ID="optussport1.au" tvg-name="VIP AU: Optus Sport 1 HD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Optus Sport 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/33651
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Optus Sport 2 HD ( Only During Events )" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Optus Sport 2 HD ( Only During Events )
+http://admin-mainpanel.club:8080/Susie/Susie/33652
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Optus Sport 3 HD ( Only During Events )" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Optus Sport 3 HD ( Only During Events )
+http://admin-mainpanel.club:8080/Susie/Susie/33653
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Optus Sport 4 HD ( Only During Events )" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Optus Sport 4 HD ( Only During Events )
+http://admin-mainpanel.club:8080/Susie/Susie/33654
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Optus Sport 5 HD ( Only During Events )" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Optus Sport 5 HD ( Only During Events )
+http://admin-mainpanel.club:8080/Susie/Susie/33655
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Optus Sport 6 HD ( Only During Events )" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Optus Sport 6 HD ( Only During Events )
+http://admin-mainpanel.club:8080/Susie/Susie/33656
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 1 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 1 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45110
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 2 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 2 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45111
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 3 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 3 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45112
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 4 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 4 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45113
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 5 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 5 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45114
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 6 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 6 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45115
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 7 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 7 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45116
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Spark Sport 8 FHD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Spark Sport 8 FHD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/45117
+#EXTINF:-1 tvg-ID="7flix.au" tvg-name="VIP AU: 7 Flix" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 7 Flix
+http://admin-mainpanel.club:8080/Susie/Susie/16829
+#EXTINF:-1 tvg-ID="abcme.au" tvg-name="VIP AU: 7 Food" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 7 Food
+http://admin-mainpanel.club:8080/Susie/Susie/26942
+#EXTINF:-1 tvg-ID="7hd.au" tvg-name="VIP AU: 7 HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 7 HD
+http://admin-mainpanel.club:8080/Susie/Susie/11482
+#EXTINF:-1 tvg-ID="7mate.au" tvg-name="VIP AU: 7 MATE" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 7 MATE
+http://admin-mainpanel.club:8080/Susie/Susie/11485
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: 7 Racing" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: 7 Racing
+http://admin-mainpanel.club:8080/Susie/Susie/34563
+#EXTINF:-1 tvg-ID="7hd.au" tvg-name="VIP AU: 7 TV" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 7 TV
+http://admin-mainpanel.club:8080/Susie/Susie/11487
+#EXTINF:-1 tvg-ID="7two.au" tvg-name="VIP AU: 7 TWO" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 7 TWO
+http://admin-mainpanel.club:8080/Susie/Susie/11484
+#EXTINF:-1 tvg-ID="9hd.au" tvg-name="VIP AU: 9 HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 9 HD
+http://admin-mainpanel.club:8080/Susie/Susie/11483
+#EXTINF:-1 tvg-ID="9gem.au" tvg-name="VIP AU: 9Gem HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 9Gem HD
+http://admin-mainpanel.club:8080/Susie/Susie/17630
+#EXTINF:-1 tvg-ID="9go.au" tvg-name="VIP AU: 9Go HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 9Go HD
+http://admin-mainpanel.club:8080/Susie/Susie/17631
+#EXTINF:-1 tvg-ID="9life.au" tvg-name="VIP AU: 9Life HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 9Life HD
+http://admin-mainpanel.club:8080/Susie/Susie/17632
+#EXTINF:-1 tvg-ID="skythoroughbredcentral.au" tvg-name="VIP AU: 9 Rush" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 9 Rush
+http://admin-mainpanel.club:8080/Susie/Susie/26935
+#EXTINF:-1 tvg-ID="10hd.au" tvg-name="VIP AU: 10 HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 10 HD
+http://admin-mainpanel.club:8080/Susie/Susie/11479
+#EXTINF:-1 tvg-ID="10bold.au" tvg-name="VIP AU: 10 Bold" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 10 Bold
+http://admin-mainpanel.club:8080/Susie/Susie/11481
+#EXTINF:-1 tvg-ID="10peach.au" tvg-name="VIP AU: 10 PEACH" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: 10 PEACH
+http://admin-mainpanel.club:8080/Susie/Susie/26946
+#EXTINF:-1 tvg-ID="mtv.au" tvg-name="VIP AU: 10 Shake" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: 10 Shake
+http://admin-mainpanel.club:8080/Susie/Susie/34570
+#EXTINF:-1 tvg-ID="abc.au" tvg-name="VIP AU: ABC" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: ABC
+http://admin-mainpanel.club:8080/Susie/Susie/26945
+#EXTINF:-1 tvg-ID="abccomedyabckids.au" tvg-name="VIP AU: ABC COMEDY/KIDS" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: ABC COMEDY/KIDS
+http://admin-mainpanel.club:8080/Susie/Susie/26944
+#EXTINF:-1 tvg-ID="abccomedyabckids.au" tvg-name="VIP AU: ABC Me" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: ABC Me
+http://admin-mainpanel.club:8080/Susie/Susie/26943
+#EXTINF:-1 tvg-ID="abcnews.au" tvg-name="VIP AU: ABC NEWS" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: ABC NEWS
+http://admin-mainpanel.club:8080/Susie/Susie/26941
+#EXTINF:-1 tvg-ID="foxfootyhd.au" tvg-name="VIP AU: Footy Play" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Footy Play
+http://admin-mainpanel.club:8080/Susie/Susie/34610
+#EXTINF:-1 tvg-ID="foxcrickethd.au" tvg-name="VIP AU: Fox Cricket" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Cricket
+http://admin-mainpanel.club:8080/Susie/Susie/34611
+#EXTINF:-1 tvg-ID="foxleaguehd.au" tvg-name="VIP AU: Fox League" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox League
+http://admin-mainpanel.club:8080/Susie/Susie/34615
+#EXTINF:-1 tvg-ID="foxnews.au" tvg-name="VIP AU: Fox News" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox News
+http://admin-mainpanel.club:8080/Susie/Susie/34616
+#EXTINF:-1 tvg-ID="foxsportsmorehd.au" tvg-name="VIP AU: Fox Sports More" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Fox Sports More
+http://admin-mainpanel.club:8080/Susie/Susie/34620
+#EXTINF:-1 tvg-ID="nitv.au" tvg-name="VIP AU: ACC HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: ACC HD
+http://admin-mainpanel.club:8080/Susie/Susie/11477
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: Outdoor TV" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: Outdoor TV
+http://admin-mainpanel.club:8080/Susie/Susie/17634
+#EXTINF:-1 tvg-ID="expo.au" tvg-name="VIP AU: Pac2 Sports National" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: Pac2 Sports National
+http://admin-mainpanel.club:8080/Susie/Susie/26939
+#EXTINF:-1 tvg-ID="racing.com.au" tvg-name="VIP AU: Racing TV" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Racing TV
+http://admin-mainpanel.club:8080/Susie/Susie/17635
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: Redbull TV" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: Redbull TV
+http://admin-mainpanel.club:8080/Susie/Susie/26934
+#EXTINF:-1 tvg-ID="sbshd.au" tvg-name="VIP AU: SBS HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: SBS HD
+http://admin-mainpanel.club:8080/Susie/Susie/11478
+#EXTINF:-1 tvg-ID="sbsfood.au" tvg-name="VIP AU: SBS Food" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: SBS Food
+http://admin-mainpanel.club:8080/Susie/Susie/29090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: SBS Movies HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: SBS Movies HD
+http://admin-mainpanel.club:8080/Susie/Susie/26932
+#EXTINF:-1 tvg-ID="sbsviceland.au" tvg-name="VIP AU: SBS Viceland" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: SBS Viceland
+http://admin-mainpanel.club:8080/Susie/Susie/11480
+#EXTINF:-1 tvg-ID="skynewshd.au" tvg-name="VIP AU: Sky News" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Sky News
+http://admin-mainpanel.club:8080/Susie/Susie/34628
+#EXTINF:-1 tvg-ID="skynewsextra.au" tvg-name="VIP AU: Sky News Extra" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Sky News Extra
+http://admin-mainpanel.club:8080/Susie/Susie/34629
+#EXTINF:-1 tvg-ID="skynewshd.au" tvg-name="VIP AU: Sky News Extra 1" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: Sky News Extra 1
+http://admin-mainpanel.club:8080/Susie/Susie/26938
+#EXTINF:-1 tvg-ID="skynewsaustralia.au" tvg-name="VIP AU: Sky News Extra 2" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: Sky News Extra 2
+http://admin-mainpanel.club:8080/Susie/Susie/26937
+#EXTINF:-1 tvg-ID="skynewsextra.au" tvg-name="VIP AU: Sky News Extra 3" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: Sky News Extra 3
+http://admin-mainpanel.club:8080/Susie/Susie/26936
+#EXTINF:-1 tvg-ID="skynewsuk.au" tvg-name="VIP AU: Sky News UK" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Sky News UK
+http://admin-mainpanel.club:8080/Susie/Susie/34580
+#EXTINF:-1 tvg-ID="skyracing1.au" tvg-name="VIP AU: Sky Racing 1" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Sky Racing 1
+http://admin-mainpanel.club:8080/Susie/Susie/17636
+#EXTINF:-1 tvg-ID="skyracing2.au" tvg-name="VIP AU: Sky Racing 2" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Sky Racing 2
+http://admin-mainpanel.club:8080/Susie/Susie/17637
+#EXTINF:-1 tvg-ID="bbcworldnews.au" tvg-name="VIP AU: SKY Extreme" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: SKY Extreme
+http://admin-mainpanel.club:8080/Susie/Susie/34592
+#EXTINF:-1 tvg-ID="bloomberg.au" tvg-name="VIP AU: Thoroughbred Central" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: Thoroughbred Central
+http://admin-mainpanel.club:8080/Susie/Susie/34583
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 1 HD (Live During Events Only)" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: AFL Live 1 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25782
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 2 HD (Live During Events Only)" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: AFL Live 2 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25781
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 3 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: AFL Live 3 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25780
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 4 HD (Live During Events Only)" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: AFL Live 4 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25779
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 5 HD (Live During Events Only)" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: AFL Live 5 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25778
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 6 HD (Live During Events Only)" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: AFL Live 6 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25777
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 7 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: AFL Live 7 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25776
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 8 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: AFL Live 8 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25775
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: AFL Live 9 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: AFL Live 9 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/25774
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: NRL Live 1 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 1 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26084
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: NRL Live 2 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 2 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26083
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: NRL Live 3 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 3 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26082
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: NRL Live 4 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 4 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26081
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Live 5 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 5 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26080
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Live 6 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 6 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26079
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Live 7 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 7 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26078
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Live 8 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 8 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26077
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Live 9 HD (Live During Events Only)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Live 9 HD (Live During Events Only)
+http://admin-mainpanel.club:8080/Susie/Susie/26076
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Rugby League 1 HD (Only During Live Games)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Rugby League 1 HD (Only During Live Games)
+http://admin-mainpanel.club:8080/Susie/Susie/26087
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Rugby League 2 HD (Only During Live Games)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Rugby League 2 HD (Only During Live Games)
+http://admin-mainpanel.club:8080/Susie/Susie/26086
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: NRL Rugby League 3 HD (Only During Live Games)" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: NRL Rugby League 3 HD (Only During Live Games)
+http://admin-mainpanel.club:8080/Susie/Susie/26085
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AU: RUGBY PASS TV" tvg-logo="[" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS TV
+http://admin-mainpanel.club:8080/Susie/Susie/26922
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 01 HD" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 01 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26921
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 02 HD" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 02 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26920
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 03 HD" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 03 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26919
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 04 HD" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 04 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26918
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 05 HD" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 05 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26917
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 06 HD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 06 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26916
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 07 HD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 07 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26915
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 08 HD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 08 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26914
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 09 HD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 09 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26913
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AU: RUGBY PASS 10 HD" tvg-logo="" group-title="Live: Australia & NZ",VIP AU: RUGBY PASS 10 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26912
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: TVNZ 1HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP NZ: TVNZ 1HD
+http://admin-mainpanel.club:8080/Susie/Susie/16566
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: TVNZ 2HD" tvg-logo="[" group-title="Live: Australia & NZ",VIP NZ: TVNZ 2HD
+http://admin-mainpanel.club:8080/Susie/Susie/16565
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: Three" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Three
+http://admin-mainpanel.club:8080/Susie/Susie/16560
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: DUKE" tvg-logo="[" group-title="Live: Australia & NZ",VIP NZ: DUKE
+http://admin-mainpanel.club:8080/Susie/Susie/16562
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: PRIME" tvg-logo="[" group-title="Live: Australia & NZ",VIP NZ: PRIME
+http://admin-mainpanel.club:8080/Susie/Susie/16561
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Bravo" tvg-logo="[" group-title="Live: Australia & NZ",VIP NZ: Bravo
+http://admin-mainpanel.club:8080/Susie/Susie/16563
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: Edge" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Edge
+http://admin-mainpanel.club:8080/Susie/Susie/16557
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: Parliament TV" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP NZ: Parliament TV
+http://admin-mainpanel.club:8080/Susie/Susie/26933
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: Wairarapa TV" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP NZ: Wairarapa TV
+http://admin-mainpanel.club:8080/Susie/Susie/26931
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: APNA TV" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: APNA TV
+http://admin-mainpanel.club:8080/Susie/Susie/30994
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: M?ori Television" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: M?ori Television
+http://admin-mainpanel.club:8080/Susie/Susie/30993
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP NZ: Te Reo(Maori)" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Te Reo(Maori)
+http://admin-mainpanel.club:8080/Susie/Susie/30997
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: TV 28" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: TV 28
+http://admin-mainpanel.club:8080/Susie/Susie/30996
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: TV 29" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: TV 29
+http://admin-mainpanel.club:8080/Susie/Susie/30995
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: Shine TV" tvg-logo="" group-title="Live: Australia & NZ",VIP NZ: Shine TV
+http://admin-mainpanel.club:8080/Susie/Susie/16564
+#EXTINF:-1 tvg-ID="" tvg-name="VIP NZ: Redbull TV" tvg-logo="[""]" group-title="Live: Australia & NZ",VIP NZ: Redbull TV
+http://admin-mainpanel.club:8080/Susie/Susie/16558
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rai 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50162
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rai 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50163
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rai 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 3 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50164
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rai 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 4 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50165
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rai 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 5 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50166
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Italia 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Italia 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50169
+#EXTINF:-1 tvg-ID="italia2.it" tvg-name="VIP IT: Italia 2 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Italia 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/18716
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rete 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rete 4 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50167
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Canale 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 5 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50168
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RSI LA 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: RSI LA 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50170
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: RSI LA 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: RSI LA 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/50171
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="VIP IT: La7 HD" tvg-logo="" group-title="Live: Italy",VIP IT: La7 HD
+http://admin-mainpanel.club:8080/Susie/Susie/18721
+#EXTINF:-1 tvg-ID="la7d.it" tvg-name="VIP IT: La7d HD" tvg-logo="" group-title="Live: Italy",VIP IT: La7d HD
+http://admin-mainpanel.club:8080/Susie/Susie/18722
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Alice" tvg-logo="[" group-title="Live: Italy",VIP IT: Alice
+http://admin-mainpanel.club:8080/Susie/Susie/8271
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Alpha" tvg-logo="" group-title="Live: Italy",VIP IT: Alpha
+http://admin-mainpanel.club:8080/Susie/Susie/18694
+#EXTINF:-1 tvg-ID="animalplanet.it" tvg-name="VIP IT: Sky Cinema Duo+24 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Sky Cinema Duo+24 HD
+http://admin-mainpanel.club:8080/Susie/Susie/8272
+#EXTINF:-1 tvg-ID="automototv.it" tvg-name="VIP IT: Automoto TV" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Automoto TV
+http://admin-mainpanel.club:8080/Susie/Susie/8298
+#EXTINF:-1 tvg-ID="babytv.it" tvg-name="VIP IT: Baby TV" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Baby TV
+http://admin-mainpanel.club:8080/Susie/Susie/8286
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Bike HD" tvg-logo="" group-title="Live: Italy",VIP IT: Bike HD
+http://admin-mainpanel.club:8080/Susie/Susie/18708
+#EXTINF:-1 tvg-ID="blaze.it" tvg-name="VIP IT: Blaze HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Blaze HD
+http://admin-mainpanel.club:8080/Susie/Susie/18693
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="VIP IT: Boing" tvg-logo="" group-title="Live: Italy",VIP IT: Boing
+http://admin-mainpanel.club:8080/Susie/Susie/8287
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Boomerang HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Boomerang HD
+http://admin-mainpanel.club:8080/Susie/Susie/18698
+#EXTINF:-1 tvg-ID="spike.it" tvg-name="VIP IT: Spike" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Spike
+http://admin-mainpanel.club:8080/Susie/Susie/18700
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: MASHA E ORSO TV" tvg-logo="" group-title="Live: Italy",VIP IT: MASHA E ORSO TV
+http://admin-mainpanel.club:8080/Susie/Susie/18705
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="VIP IT: Cartoon Network" tvg-logo="[" group-title="Live: Italy",VIP IT: Cartoon Network
+http://admin-mainpanel.club:8080/Susie/Susie/8288
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="VIP IT: Cartoonito" tvg-logo="" group-title="Live: Italy",VIP IT: Cartoonito
+http://admin-mainpanel.club:8080/Susie/Susie/8289
+#EXTINF:-1 tvg-ID="crimeinvestigation.it" tvg-name="VIP IT: CI Crime Investigation HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: CI Crime Investigation HD
+http://admin-mainpanel.club:8080/Susie/Susie/18692
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="VIP IT: Cielo HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Cielo HD
+http://admin-mainpanel.club:8080/Susie/Susie/8273
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Class Horse TV" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Class Horse TV
+http://admin-mainpanel.club:8080/Susie/Susie/8299
+#EXTINF:-1 tvg-ID="classica.it" tvg-name="VIP IT: Classica HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Classica HD
+http://admin-mainpanel.club:8080/Susie/Susie/18697
+#EXTINF:-1 tvg-ID="comedycentral.it" tvg-name="VIP IT: Comedy Central HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Comedy Central HD
+http://admin-mainpanel.club:8080/Susie/Susie/18715
+#EXTINF:-1 tvg-ID="deajunior.it" tvg-name="VIP IT: Dea Junior HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Dea Junior HD
+http://admin-mainpanel.club:8080/Susie/Susie/18706
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dea Kids HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Dea Kids HD
+http://admin-mainpanel.club:8080/Susie/Susie/18707
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Deejay TV" tvg-logo="" group-title="Live: Italy",VIP IT: Deejay TV
+http://admin-mainpanel.club:8080/Susie/Susie/8274
+#EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="VIP IT: Discovery HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Discovery HD
+http://admin-mainpanel.club:8080/Susie/Susie/8275
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="VIP IT: Discovery Science HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Discovery Science HD
+http://admin-mainpanel.club:8080/Susie/Susie/5649
+#EXTINF:-1 tvg-ID="discoverytravelliving.it" tvg-name="VIP IT: Discovery Travel & Living HD" tvg-logo="" group-title="Live: Italy",VIP IT: Discovery Travel & Living HD
+http://admin-mainpanel.club:8080/Susie/Susie/5650
+#EXTINF:-1 tvg-ID="disneychannel.it" tvg-name="VIP IT: Disney Channel" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Disney Channel
+http://admin-mainpanel.club:8080/Susie/Susie/8306
+#EXTINF:-1 tvg-ID="disneyjunior.it" tvg-name="VIP IT: Disney Junior" tvg-logo="[" group-title="Live: Italy",VIP IT: Disney Junior
+http://admin-mainpanel.club:8080/Susie/Susie/8308
+#EXTINF:-1 tvg-ID="disneyxd.it" tvg-name="VIP IT: Disney XD" tvg-logo="[" group-title="Live: Italy",VIP IT: Disney XD
+http://admin-mainpanel.club:8080/Susie/Susie/8307
+#EXTINF:-1 tvg-ID="dmax.it" tvg-name="VIP IT: Dmax HD" tvg-logo="" group-title="Live: Italy",VIP IT: Dmax HD
+http://admin-mainpanel.club:8080/Susie/Susie/8277
+#EXTINF:-1 tvg-ID="dove.it" tvg-name="VIP IT: Dove TV HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Dove TV HD
+http://admin-mainpanel.club:8080/Susie/Susie/18696
+#EXTINF:-1 tvg-ID="eurosport.it" tvg-name="VIP IT: Eurosport 1" tvg-logo="" group-title="Live: Italy",VIP IT: Eurosport 1
+http://admin-mainpanel.club:8080/Susie/Susie/8293
+#EXTINF:-1 tvg-ID="eurosport2.it" tvg-name="VIP IT: Eurosport 2" tvg-logo="" group-title="Live: Italy",VIP IT: Eurosport 2
+http://admin-mainpanel.club:8080/Susie/Susie/8294
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Food Network HD" tvg-logo="" group-title="Live: Italy",VIP IT: Food Network HD
+http://admin-mainpanel.club:8080/Susie/Susie/8280
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fishing TV" tvg-logo="" group-title="Live: Italy",VIP IT: Fishing TV
+http://admin-mainpanel.club:8080/Susie/Susie/8310
+#EXTINF:-1 tvg-ID="focustv.it" tvg-name="VIP IT: Focus" tvg-logo="[" group-title="Live: Italy",VIP IT: Focus
+http://admin-mainpanel.club:8080/Susie/Susie/8278
+#EXTINF:-1 tvg-ID="foodnetworkhd.it" tvg-name="VIP IT: Food Network" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Food Network
+http://admin-mainpanel.club:8080/Susie/Susie/18690
+#EXTINF:-1 tvg-ID="foxanimation.it" tvg-name="VIP IT: RTL 102.5" tvg-logo="" group-title="Live: Italy",VIP IT: RTL 102.5
+http://admin-mainpanel.club:8080/Susie/Susie/5653
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="VIP IT: Fox Crime HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Fox Crime HD
+http://admin-mainpanel.club:8080/Susie/Susie/5655
+#EXTINF:-1 tvg-ID="fox.it" tvg-name="VIP IT: Fox HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Fox HD
+http://admin-mainpanel.club:8080/Susie/Susie/5652
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="VIP IT: Fox Life HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Fox Life HD
+http://admin-mainpanel.club:8080/Susie/Susie/5656
+#EXTINF:-1 tvg-ID="frisbee.it" tvg-name="VIP IT: Frisbee" tvg-logo="[" group-title="Live: Italy",VIP IT: Frisbee
+http://admin-mainpanel.club:8080/Susie/Susie/8309
+#EXTINF:-1 tvg-ID="gamberorosso.it" tvg-name="VIP IT: GAMBERRO ROSSO HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: GAMBERRO ROSSO HD
+http://admin-mainpanel.club:8080/Susie/Susie/8281
+#EXTINF:-1 tvg-ID="giallo.it" tvg-name="VIP IT: Giallo" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Giallo
+http://admin-mainpanel.club:8080/Susie/Susie/8279
+#EXTINF:-1 tvg-ID="historychannel.it" tvg-name="VIP IT: History HD" tvg-logo="[" group-title="Live: Italy",VIP IT: History HD
+http://admin-mainpanel.club:8080/Susie/Susie/8282
+#EXTINF:-1 tvg-ID="interchannel.it" tvg-name="VIP IT: Inter Channel" tvg-logo="[" group-title="Live: Italy",VIP IT: Inter Channel
+http://admin-mainpanel.club:8080/Susie/Susie/8321
+#EXTINF:-1 tvg-ID="discoverychannelhd.it" tvg-name="VIP IT: Investigation Discovery" tvg-logo="" group-title="Live: Italy",VIP IT: Investigation Discovery
+http://admin-mainpanel.club:8080/Susie/Susie/8276
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="VIP IT: Iris" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Iris
+http://admin-mainpanel.club:8080/Susie/Susie/8312
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Italian Fishing TV" tvg-logo="" group-title="Live: Italy",VIP IT: Italian Fishing TV
+http://admin-mainpanel.club:8080/Susie/Susie/8300
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Juventus Channel" tvg-logo="" group-title="Live: Italy",VIP IT: Juventus Channel
+http://admin-mainpanel.club:8080/Susie/Susie/29141
+#EXTINF:-1 tvg-ID="k2.it" tvg-name="VIP IT: K2" tvg-logo="[" group-title="Live: Italy",VIP IT: K2
+http://admin-mainpanel.club:8080/Susie/Susie/8291
+#EXTINF:-1 tvg-ID="laeffe.it" tvg-name="VIP IT: Laeffe HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Laeffe HD
+http://admin-mainpanel.club:8080/Susie/Susie/18711
+#EXTINF:-1 tvg-ID="laziostylechannel.it" tvg-name="VIP IT: Lazio Style Channel" tvg-logo="[" group-title="Live: Italy",VIP IT: Lazio Style Channel
+http://admin-mainpanel.club:8080/Susie/Susie/18710
+#EXTINF:-1 tvg-ID="lei.it" tvg-name="VIP IT: Lei HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Lei HD
+http://admin-mainpanel.club:8080/Susie/Susie/18714
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: M2O TV" tvg-logo="[""]" group-title="Live: Italy",VIP IT: M2O TV
+http://admin-mainpanel.club:8080/Susie/Susie/8284
+#EXTINF:-1 tvg-ID="manga.it" tvg-name="VIP IT: MANGA" tvg-logo="[""]" group-title="Live: Italy",VIP IT: MANGA
+http://admin-mainpanel.club:8080/Susie/Susie/8292
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: M4C" tvg-logo="[""]" group-title="Live: Italy",VIP IT: M4C
+http://admin-mainpanel.club:8080/Susie/Susie/8283
+#EXTINF:-1 tvg-ID="20mediasethd.it" tvg-name="VIP IT: Mediaset 20" tvg-logo="" group-title="Live: Italy",VIP IT: Mediaset 20
+http://admin-mainpanel.club:8080/Susie/Susie/18688
+#EXTINF:-1 tvg-ID="20mediasethd.it" tvg-name="VIP IT: Mediaset 20 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Mediaset 20 HD
+http://admin-mainpanel.club:8080/Susie/Susie/18699
+#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="VIP IT: Mediaset Extra" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Mediaset Extra
+http://admin-mainpanel.club:8080/Susie/Susie/18703
+#EXTINF:-1 tvg-ID="Mmilantv.it" tvg-name="VIP IT: Milan Channel" tvg-logo="[" group-title="Live: Italy",VIP IT: Milan Channel
+http://admin-mainpanel.club:8080/Susie/Susie/8323
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Motor Trend SD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Motor Trend SD
+http://admin-mainpanel.club:8080/Susie/Susie/18687
+#EXTINF:-1 tvg-ID="mtv.it" tvg-name="VIP IT: MTV HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: MTV HD
+http://admin-mainpanel.club:8080/Susie/Susie/18686
+#EXTINF:-1 tvg-ID="natgeo.it" tvg-name="VIP IT: Nat Geographic HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Nat Geographic HD
+http://admin-mainpanel.club:8080/Susie/Susie/5659
+#EXTINF:-1 tvg-ID="natgeopeople.it" tvg-name="VIP IT: NatGeo People HD" tvg-logo="" group-title="Live: Italy",VIP IT: NatGeo People HD
+http://admin-mainpanel.club:8080/Susie/Susie/5660
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="VIP IT: NatGeo Wild HD" tvg-logo="[" group-title="Live: Italy",VIP IT: NatGeo Wild HD
+http://admin-mainpanel.club:8080/Susie/Susie/5661
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Nautical HD" tvg-logo="" group-title="Live: Italy",VIP IT: Nautical HD
+http://admin-mainpanel.club:8080/Susie/Susie/8301
+#EXTINF:-1 tvg-ID="nickelodeon.it" tvg-name="VIP IT: Nickelodeon HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Nickelodeon HD
+http://admin-mainpanel.club:8080/Susie/Susie/18695
+#EXTINF:-1 tvg-ID="nove.it" tvg-name="VIP IT: Nove HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Nove HD
+http://admin-mainpanel.club:8080/Susie/Susie/18685
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="VIP IT: Real Time  1" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Real Time  1
+http://admin-mainpanel.club:8080/Susie/Susie/8313
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="VIP IT: Real Time HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Real Time HD
+http://admin-mainpanel.club:8080/Susie/Susie/8285
+#EXTINF:-1 tvg-ID="romatv.it" tvg-name="VIP IT: Roma Channel" tvg-logo="[" group-title="Live: Italy",VIP IT: Roma Channel
+http://admin-mainpanel.club:8080/Susie/Susie/8311
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="VIP IT: Sky Uno HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Uno HD
+http://admin-mainpanel.club:8080/Susie/Susie/5678
+#EXTINF:-1 tvg-ID="skyarte.it" tvg-name="VIP IT: Sky Arte HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Arte HD
+http://admin-mainpanel.club:8080/Susie/Susie/18713
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="VIP IT: Sky Atlantic HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Atlantic HD
+http://admin-mainpanel.club:8080/Susie/Susie/5662
+#EXTINF:-1 tvg-ID="skycinemaunohd.it" tvg-name="VIP IT: Sky Cinema Uno HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Uno HD
+http://admin-mainpanel.club:8080/Susie/Susie/5663
+#EXTINF:-1 tvg-ID="skycinemaduehd.it" tvg-name="VIP IT: Sky Cinema Due HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Due HD
+http://admin-mainpanel.club:8080/Susie/Susie/5665
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="VIP IT: Sky Cinema Comedy HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Comedy HD
+http://admin-mainpanel.club:8080/Susie/Susie/8325
+#EXTINF:-1 tvg-ID="skycinemadramahd.it" tvg-name="VIP IT: Sky Cinema Drama HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Drama HD
+http://admin-mainpanel.club:8080/Susie/Susie/5667
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="VIP IT: Sky Cinema Family HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Family HD
+http://admin-mainpanel.club:8080/Susie/Susie/8324
+#EXTINF:-1 tvg-ID="skycinemacollectionhd.it" tvg-name="VIP IT: Sky Cinema Collection HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Collection HD
+http://admin-mainpanel.club:8080/Susie/Susie/5668
+#EXTINF:-1 tvg-ID="skycinemaactionhd.it" tvg-name="VIP IT: Sky Cinema Action HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Action HD
+http://admin-mainpanel.club:8080/Susie/Susie/5669
+#EXTINF:-1 tvg-ID="skycinemahitshd.it" tvg-name="VIP IT: Sky Cinema Suspance HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Suspance HD
+http://admin-mainpanel.club:8080/Susie/Susie/18680
+#EXTINF:-1 tvg-ID="skycinemaromancehd.it" tvg-name="VIP IT: Sky Cinema Romance HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Romance HD
+http://admin-mainpanel.club:8080/Susie/Susie/5670
+#EXTINF:-1 tvg-ID="skycinemauno+24hd.it" tvg-name="VIP IT: Sky Cinema Uno+24 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Cinema Uno+24 HD
+http://admin-mainpanel.club:8080/Susie/Susie/5664
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="VIP IT: Sky Sport 24 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport 24 HD
+http://admin-mainpanel.club:8080/Susie/Susie/5674
+#EXTINF:-1 tvg-ID="skysport1.it" tvg-name="VIP IT: Sky Sport Uno HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport Uno HD
+http://admin-mainpanel.club:8080/Susie/Susie/5671
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="VIP IT: Sky Sport Arena HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport Arena HD
+http://admin-mainpanel.club:8080/Susie/Susie/5657
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="VIP IT: Sky Sport F1 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport F1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/5675
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="VIP IT: Sky Sport Football HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport Football HD
+http://admin-mainpanel.club:8080/Susie/Susie/5672
+#EXTINF:-1 tvg-ID="skysportgolf.it" tvg-name="VIP IT: Sky Sport Collection HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport Collection HD
+http://admin-mainpanel.club:8080/Susie/Susie/18679
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="VIP IT: Sky Sport MotoGP HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport MotoGP HD
+http://admin-mainpanel.club:8080/Susie/Susie/5676
+#EXTINF:-1 tvg-ID="skysportnba.it" tvg-name="VIP IT: Sky Sport NBA HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport NBA HD
+http://admin-mainpanel.club:8080/Susie/Susie/5673
+#EXTINF:-1 tvg-ID="skysportsseriea.it" tvg-name="VIP IT: Sky Sport Seria A FHD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Sport Seria A FHD
+http://admin-mainpanel.club:8080/Susie/Susie/5677
+#EXTINF:-1 tvg-ID="skysupercalcio.it" tvg-name="VIP IT: Sky Super Calcio HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Super Calcio HD
+http://admin-mainpanel.club:8080/Susie/Susie/26105
+#EXTINF:-1 tvg-ID="skycalcio1.it" tvg-name="VIP IT: Sky Calcio 1 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Calcio 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7428
+#EXTINF:-1 tvg-ID="skycalcio2.it" tvg-name="VIP IT: Sky Calcio 2 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Calcio 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7429
+#EXTINF:-1 tvg-ID="skycalcio3.it" tvg-name="VIP IT: Sky Calcio 3 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Calcio 3 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7430
+#EXTINF:-1 tvg-ID="skycalcio4.it" tvg-name="VIP IT: Sky Calcio 4 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Calcio 4 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7431
+#EXTINF:-1 tvg-ID="skycalcio5.it" tvg-name="VIP IT: Sky Calcio 5 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky Calcio 5 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7432
+#EXTINF:-1 tvg-ID="skycalcio6.it" tvg-name="VIP IT: Sky Calcio 6 HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Sky Calcio 6 HD
+http://admin-mainpanel.club:8080/Susie/Susie/7433
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 7 HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Sky Calcio 7 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26100
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 8 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Sky Calcio 8 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26101
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 9 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Sky Calcio 9 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn Seria A 1 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Dazn Seria A 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/26103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn BAR HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Dazn BAR HD
+http://admin-mainpanel.club:8080/Susie/Susie/26104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 1" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 1
+http://admin-mainpanel.club:8080/Susie/Susie/18760
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 2" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 2
+http://admin-mainpanel.club:8080/Susie/Susie/18759
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 3" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 3
+http://admin-mainpanel.club:8080/Susie/Susie/18758
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 4" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 4
+http://admin-mainpanel.club:8080/Susie/Susie/18757
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 5" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 5
+http://admin-mainpanel.club:8080/Susie/Susie/18756
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 6" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 6
+http://admin-mainpanel.club:8080/Susie/Susie/18755
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 7" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 7
+http://admin-mainpanel.club:8080/Susie/Susie/18754
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 8" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 8
+http://admin-mainpanel.club:8080/Susie/Susie/18753
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 9" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 9
+http://admin-mainpanel.club:8080/Susie/Susie/18752
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 10" tvg-logo="" group-title="Live: Italy",VIP IT: Dazn 10
+http://admin-mainpanel.club:8080/Susie/Susie/18751
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="VIP IT: Sky TG 24" tvg-logo="[" group-title="Live: Italy",VIP IT: Sky TG 24
+http://admin-mainpanel.club:8080/Susie/Susie/8304
+#EXTINF:-1 tvg-ID="cinesony.it" tvg-name="VIP IT: Cine Sony" tvg-logo="" group-title="Live: Italy",VIP IT: Cine Sony
+http://admin-mainpanel.club:8080/Susie/Susie/18691
+#EXTINF:-1 tvg-ID="super.it" tvg-name="VIP IT: Super" tvg-logo="" group-title="Live: Italy",VIP IT: Super
+http://admin-mainpanel.club:8080/Susie/Susie/8290
+#EXTINF:-1 tvg-ID="supertennis.it" tvg-name="VIP IT: Supertennis HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Supertennis HD
+http://admin-mainpanel.club:8080/Susie/Susie/8303
+#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="VIP IT: TG Norba 24" tvg-logo="" group-title="Live: Italy",VIP IT: TG Norba 24
+http://admin-mainpanel.club:8080/Susie/Susie/18683
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="VIP IT: TGCOM 24" tvg-logo="[" group-title="Live: Italy",VIP IT: TGCOM 24
+http://admin-mainpanel.club:8080/Susie/Susie/8305
+#EXTINF:-1 tvg-ID="tg24primopiano.it" tvg-name="VIP IT: Top Calcio 24" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Top Calcio 24
+http://admin-mainpanel.club:8080/Susie/Susie/18682
+#EXTINF:-1 tvg-ID="topcrime.it" tvg-name="VIP IT: Top Crime" tvg-logo="" group-title="Live: Italy",VIP IT: Top Crime
+http://admin-mainpanel.club:8080/Susie/Susie/18712
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Torino Channel HD" tvg-logo="[""]" group-title="Live: Italy",VIP IT: Torino Channel HD
+http://admin-mainpanel.club:8080/Susie/Susie/18709
+#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="VIP IT: TV 2000" tvg-logo="" group-title="Live: Italy",VIP IT: TV 2000
+http://admin-mainpanel.club:8080/Susie/Susie/8314
+#EXTINF:-1 tvg-ID="tv8.it" tvg-name="VIP IT: TV8" tvg-logo="[""]" group-title="Live: Italy",VIP IT: TV8
+http://admin-mainpanel.club:8080/Susie/Susie/18720
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Uniresat HD" tvg-logo="" group-title="Live: Italy",VIP IT: Uniresat HD
+http://admin-mainpanel.club:8080/Susie/Susie/18681
+#EXTINF:-1 tvg-ID="" tvg-name="===== Regional IT =======" tvg-logo="" group-title="",===== Regional IT =======
+http://admin-mainpanel.club:8080/Susie/Susie/35242
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: AB Channel (Abruzzo)" tvg-logo="" group-title="Live: Italy",VIP IT: AB Channel (Abruzzo)
+http://admin-mainpanel.club:8080/Susie/Susie/45700
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Aldo Giovanni e Giacomo Channel" tvg-logo="" group-title="Live: Italy",VIP IT: Aldo Giovanni e Giacomo Channel
+http://admin-mainpanel.club:8080/Susie/Susie/45671
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Alpa Uno TV" tvg-logo="" group-title="Live: Italy",VIP IT: Alpa Uno TV
+http://admin-mainpanel.club:8080/Susie/Susie/45572
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Alto Adige" tvg-logo="" group-title="Live: Italy",VIP IT: Alto Adige
+http://admin-mainpanel.club:8080/Susie/Susie/45594
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ANTENNA 3" tvg-logo="" group-title="Live: Italy",VIP IT: ANTENNA 3
+http://admin-mainpanel.club:8080/Susie/Susie/45601
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Antenna 3 Nord Est" tvg-logo="" group-title="Live: Italy",VIP IT: Antenna 3 Nord Est
+http://admin-mainpanel.club:8080/Susie/Susie/45681
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Antenna Sicilia HD" tvg-logo="" group-title="Live: Italy",VIP IT: Antenna Sicilia HD
+http://admin-mainpanel.club:8080/Susie/Susie/45660
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Antenna Sud" tvg-logo="" group-title="Live: Italy",VIP IT: Antenna Sud
+http://admin-mainpanel.club:8080/Susie/Susie/45674
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: AutoMoto SD" tvg-logo="" group-title="Live: Italy",VIP IT: AutoMoto SD
+http://admin-mainpanel.club:8080/Susie/Susie/45582
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Caffe Tv 24" tvg-logo="" group-title="Live: Italy",VIP IT: Caffe Tv 24
+http://admin-mainpanel.club:8080/Susie/Susie/45649
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: CAMPANE GOLD 1" tvg-logo="" group-title="Live: Italy",VIP IT: CAMPANE GOLD 1
+http://admin-mainpanel.club:8080/Susie/Susie/45624
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: CANALE 10" tvg-logo="" group-title="Live: Italy",VIP IT: CANALE 10
+http://admin-mainpanel.club:8080/Susie/Susie/45604
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 2 (Basilicata)" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 2 (Basilicata)
+http://admin-mainpanel.club:8080/Susie/Susie/45610
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: CANALE 2 ALTAMURA" tvg-logo="" group-title="Live: Italy",VIP IT: CANALE 2 ALTAMURA
+http://admin-mainpanel.club:8080/Susie/Susie/45573
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 21 Lazio" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 21 Lazio
+http://admin-mainpanel.club:8080/Susie/Susie/45625
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 7 Ita" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 7 Ita
+http://admin-mainpanel.club:8080/Susie/Susie/45600
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 8 (Campania)" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 8 (Campania)
+http://admin-mainpanel.club:8080/Susie/Susie/45589
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 85 (Basilicata)" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 85 (Basilicata)
+http://admin-mainpanel.club:8080/Susie/Susie/45614
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale10" tvg-logo="" group-title="Live: Italy",VIP IT: Canale10
+http://admin-mainpanel.club:8080/Susie/Susie/45640
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale8" tvg-logo="" group-title="Live: Italy",VIP IT: Canale8
+http://admin-mainpanel.club:8080/Susie/Susie/45586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Carina TV (Basilicata)" tvg-logo="" group-title="Live: Italy",VIP IT: Carina TV (Basilicata)
+http://admin-mainpanel.club:8080/Susie/Susie/45591
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Cine 34 Mediaset HD" tvg-logo="" group-title="Live: Italy",VIP IT: Cine 34 Mediaset HD
+http://admin-mainpanel.club:8080/Susie/Susie/45672
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: COMPANY TV" tvg-logo="" group-title="Live: Italy",VIP IT: COMPANY TV
+http://admin-mainpanel.club:8080/Susie/Susie/45571
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Cremona 1" tvg-logo="" group-title="Live: Italy",VIP IT: Cremona 1
+http://admin-mainpanel.club:8080/Susie/Susie/45678
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Di TV 3" tvg-logo="" group-title="Live: Italy",VIP IT: Di TV 3
+http://admin-mainpanel.club:8080/Susie/Susie/45707
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Di.TV 90" tvg-logo="" group-title="Live: Italy",VIP IT: Di.TV 90
+http://admin-mainpanel.club:8080/Susie/Susie/45615
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Donna TV" tvg-logo="" group-title="Live: Italy",VIP IT: Donna TV
+http://admin-mainpanel.club:8080/Susie/Susie/45670
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)" tvg-logo="" group-title="Live: Italy",VIP IT: Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)
+http://admin-mainpanel.club:8080/Susie/Susie/45668
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ELIVE TV BRESCIA" tvg-logo="" group-title="Live: Italy",VIP IT: ELIVE TV BRESCIA
+http://admin-mainpanel.club:8080/Susie/Susie/45574
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Esperia TV (Calabria)" tvg-logo="" group-title="Live: Italy",VIP IT: Esperia TV (Calabria)
+http://admin-mainpanel.club:8080/Susie/Susie/45622
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: eTV Marche" tvg-logo="" group-title="Live: Italy",VIP IT: eTV Marche
+http://admin-mainpanel.club:8080/Susie/Susie/45619
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Euronews Live HD" tvg-logo="" group-title="Live: Italy",VIP IT: Euronews Live HD
+http://admin-mainpanel.club:8080/Susie/Susie/45592
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fantozzi Channel" tvg-logo="" group-title="Live: Italy",VIP IT: Fantozzi Channel
+http://admin-mainpanel.club:8080/Susie/Susie/45570
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fashion TV FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Fashion TV FHD
+http://admin-mainpanel.club:8080/Susie/Susie/45646
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: GOLD TV" tvg-logo="" group-title="Live: Italy",VIP IT: GOLD TV
+http://admin-mainpanel.club:8080/Susie/Susie/45658
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Granducato TV" tvg-logo="" group-title="Live: Italy",VIP IT: Granducato TV
+http://admin-mainpanel.club:8080/Susie/Susie/45656
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: HSE24" tvg-logo="" group-title="Live: Italy",VIP IT: HSE24
+http://admin-mainpanel.club:8080/Susie/Susie/45579
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Hunting (Caccia)" tvg-logo="" group-title="Live: Italy",VIP IT: Hunting (Caccia)
+http://admin-mainpanel.club:8080/Susie/Susie/45587
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Julie Italia (Campania)" tvg-logo="" group-title="Live: Italy",VIP IT: Julie Italia (Campania)
+http://admin-mainpanel.club:8080/Susie/Susie/45598
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: La Casa di Topolino Channel" tvg-logo="" group-title="Live: Italy",VIP IT: La Casa di Topolino Channel
+http://admin-mainpanel.club:8080/Susie/Susie/45667
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: La Nuova TV  HD (Basilicata)" tvg-logo="" group-title="Live: Italy",VIP IT: La Nuova TV  HD (Basilicata)
+http://admin-mainpanel.club:8080/Susie/Susie/45705
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: LA TR3" tvg-logo="" group-title="Live: Italy",VIP IT: LA TR3
+http://admin-mainpanel.club:8080/Susie/Susie/45631
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Lucania.TV (Basilicata)" tvg-logo="" group-title="Live: Italy",VIP IT: Lucania.TV (Basilicata)
+http://admin-mainpanel.club:8080/Susie/Susie/45694
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Lupin III Channel" tvg-logo="" group-title="Live: Italy",VIP IT: Lupin III Channel
+http://admin-mainpanel.club:8080/Susie/Susie/45669
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: m2o (musica)" tvg-logo="" group-title="Live: Italy",VIP IT: m2o (musica)
+http://admin-mainpanel.club:8080/Susie/Susie/45637
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: MEDIASPORT" tvg-logo="" group-title="Live: Italy",VIP IT: MEDIASPORT
+http://admin-mainpanel.club:8080/Susie/Susie/45662
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Napoli Canale 21 TV" tvg-logo="" group-title="Live: Italy",VIP IT: Napoli Canale 21 TV
+http://admin-mainpanel.club:8080/Susie/Susie/45661
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Napoli Icaro TV" tvg-logo="" group-title="Live: Italy",VIP IT: Napoli Icaro TV
+http://admin-mainpanel.club:8080/Susie/Susie/45715
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Onda TV" tvg-logo="" group-title="Live: Italy",VIP IT: Onda TV
+http://admin-mainpanel.club:8080/Susie/Susie/45597
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: One TV Emilia HD (EmiliaRomagna)" tvg-logo="" group-title="Live: Italy",VIP IT: One TV Emilia HD (EmiliaRomagna)
+http://admin-mainpanel.club:8080/Susie/Susie/45602
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Orler TV" tvg-logo="" group-title="Live: Italy",VIP IT: Orler TV
+http://admin-mainpanel.club:8080/Susie/Susie/45620
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: OTTO FM" tvg-logo="" group-title="Live: Italy",VIP IT: OTTO FM
+http://admin-mainpanel.club:8080/Susie/Susie/45575
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: PESCARA TV" tvg-logo="" group-title="Live: Italy",VIP IT: PESCARA TV
+http://admin-mainpanel.club:8080/Susie/Susie/45576
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Primocanale TV" tvg-logo="" group-title="Live: Italy",VIP IT: Primocanale TV
+http://admin-mainpanel.club:8080/Susie/Susie/45609
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Quarta Rete TV" tvg-logo="" group-title="Live: Italy",VIP IT: Quarta Rete TV
+http://admin-mainpanel.club:8080/Susie/Susie/45588
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: QVC Italia" tvg-logo="" group-title="Live: Italy",VIP IT: QVC Italia
+http://admin-mainpanel.club:8080/Susie/Susie/45653
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RADIO 51" tvg-logo="" group-title="Live: Italy",VIP IT: RADIO 51
+http://admin-mainpanel.club:8080/Susie/Susie/45629
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Bruno TV (musica)" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Bruno TV (musica)
+http://admin-mainpanel.club:8080/Susie/Susie/45682
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Italia TV" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Italia TV
+http://admin-mainpanel.club:8080/Susie/Susie/45580
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Italia Vision (EmiliaRomagna)" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Italia Vision (EmiliaRomagna)
+http://admin-mainpanel.club:8080/Susie/Susie/45677
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Monte Carlo" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Monte Carlo
+http://admin-mainpanel.club:8080/Susie/Susie/45692
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Norba TV" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Norba TV
+http://admin-mainpanel.club:8080/Susie/Susie/45618
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Radicale Camera TV" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Radicale Camera TV
+http://admin-mainpanel.club:8080/Susie/Susie/45688
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Radicale Senato TV" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Radicale Senato TV
+http://admin-mainpanel.club:8080/Susie/Susie/45689
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Radicale TV" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Radicale TV
+http://admin-mainpanel.club:8080/Susie/Susie/45687
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Taormina TV (musica)" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Taormina TV (musica)
+http://admin-mainpanel.club:8080/Susie/Susie/45683
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Tv Azzura" tvg-logo="" group-title="Live: Italy",VIP IT: Radio Tv Azzura
+http://admin-mainpanel.club:8080/Susie/Susie/45657
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 1 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 1 HD
+http://admin-mainpanel.club:8080/Susie/Susie/45680
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 2 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 2 HD
+http://admin-mainpanel.club:8080/Susie/Susie/45702
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Nettuno" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Nettuno
+http://admin-mainpanel.club:8080/Susie/Susie/45638
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Storia" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Storia
+http://admin-mainpanel.club:8080/Susie/Susie/45654
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RETE VENETA" tvg-logo="" group-title="Live: Italy",VIP IT: RETE VENETA
+http://admin-mainpanel.club:8080/Susie/Susie/45630
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ReteBiella TV" tvg-logo="" group-title="Live: Italy",VIP IT: ReteBiella TV
+http://admin-mainpanel.club:8080/Susie/Susie/45607
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ReteSole Lazio" tvg-logo="" group-title="Live: Italy",VIP IT: ReteSole Lazio
+http://admin-mainpanel.club:8080/Susie/Susie/45596
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ReteSole Umbria" tvg-logo="" group-title="Live: Italy",VIP IT: ReteSole Umbria
+http://admin-mainpanel.club:8080/Susie/Susie/45713
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RMM TV" tvg-logo="" group-title="Live: Italy",VIP IT: RMM TV
+http://admin-mainpanel.club:8080/Susie/Susie/45635
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rossini TV" tvg-logo="" group-title="Live: Italy",VIP IT: Rossini TV
+http://admin-mainpanel.club:8080/Susie/Susie/45595
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTL 102.5 TV (musica)" tvg-logo="" group-title="Live: Italy",VIP IT: RTL 102.5 TV (musica)
+http://admin-mainpanel.club:8080/Susie/Susie/45641
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTP" tvg-logo="" group-title="Live: Italy",VIP IT: RTP
+http://admin-mainpanel.club:8080/Susie/Susie/45577
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTV 105 HD" tvg-logo="" group-title="Live: Italy",VIP IT: RTV 105 HD
+http://admin-mainpanel.club:8080/Susie/Susie/45691
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTV 38" tvg-logo="" group-title="Live: Italy",VIP IT: RTV 38
+http://admin-mainpanel.club:8080/Susie/Susie/45578
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: San Marino RTV" tvg-logo="" group-title="Live: Italy",VIP IT: San Marino RTV
+http://admin-mainpanel.club:8080/Susie/Susie/45684
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sardegna Uno TV" tvg-logo="" group-title="Live: Italy",VIP IT: Sardegna Uno TV
+http://admin-mainpanel.club:8080/Susie/Susie/45593
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Scuola di Polizia Channel" tvg-logo="" group-title="Live: Italy",VIP IT: Scuola di Polizia Channel
+http://admin-mainpanel.club:8080/Susie/Susie/45583
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Sport Italia Solo Calcio" tvg-logo="" group-title="Live: Italy",VIP IT: Sport Italia Solo Calcio
+http://admin-mainpanel.club:8080/Susie/Susie/45711
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sport Italia Live24" tvg-logo="" group-title="Live: Italy",VIP IT: Sport Italia Live24
+http://admin-mainpanel.club:8080/Susie/Susie/45717
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sport Italia Motori" tvg-logo="" group-title="Live: Italy",VIP IT: Sport Italia Motori
+http://admin-mainpanel.club:8080/Susie/Susie/45716
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia 24H HD" tvg-logo="" group-title="Live: Italy",VIP IT: SportItalia 24H HD
+http://admin-mainpanel.club:8080/Susie/Susie/45665
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia HD" tvg-logo="" group-title="Live: Italy",VIP IT: SportItalia HD
+http://admin-mainpanel.club:8080/Susie/Susie/45696
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia Motori HD" tvg-logo="" group-title="Live: Italy",VIP IT: SportItalia Motori HD
+http://admin-mainpanel.club:8080/Susie/Susie/45664
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia Solo Calcio HD" tvg-logo="" group-title="Live: Italy",VIP IT: SportItalia Solo Calcio HD
+http://admin-mainpanel.club:8080/Susie/Susie/45666
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Studio 100" tvg-logo="" group-title="Live: Italy",VIP IT: Studio 100
+http://admin-mainpanel.club:8080/Susie/Susie/45599
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Super J HD (Abruzzo)" tvg-logo="" group-title="Live: Italy",VIP IT: Super J HD (Abruzzo)
+http://admin-mainpanel.club:8080/Susie/Susie/45698
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Super TV" tvg-logo="" group-title="Live: Italy",VIP IT: Super TV
+http://admin-mainpanel.club:8080/Susie/Susie/45645
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Arena Siena" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Arena Siena
+http://admin-mainpanel.club:8080/Susie/Susie/45712
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Boario" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Boario
+http://admin-mainpanel.club:8080/Susie/Susie/45706
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Chiara" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Chiara
+http://admin-mainpanel.club:8080/Susie/Susie/45626
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TELE FRIULI" tvg-logo="" group-title="Live: Italy",VIP IT: TELE FRIULI
+http://admin-mainpanel.club:8080/Susie/Susie/45584
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Occidente" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Occidente
+http://admin-mainpanel.club:8080/Susie/Susie/45703
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Padova Telecitt" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Padova Telecitt
+http://admin-mainpanel.club:8080/Susie/Susie/45708
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Pordenone" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Pordenone
+http://admin-mainpanel.club:8080/Susie/Susie/45585
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Sirio (Abruzzo)" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Sirio (Abruzzo)
+http://admin-mainpanel.club:8080/Susie/Susie/45704
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Video Agrigento" tvg-logo="" group-title="Live: Italy",VIP IT: Tele Video Agrigento
+http://admin-mainpanel.club:8080/Susie/Susie/45616
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleBari Tv" tvg-logo="" group-title="Live: Italy",VIP IT: TeleBari Tv
+http://admin-mainpanel.club:8080/Susie/Susie/45590
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Telecentro 2" tvg-logo="" group-title="Live: Italy",VIP IT: Telecentro 2
+http://admin-mainpanel.club:8080/Susie/Susie/45652
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Telecolor Sicilia" tvg-logo="" group-title="Live: Italy",VIP IT: Telecolor Sicilia
+http://admin-mainpanel.club:8080/Susie/Susie/45663
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleColore (Campania)" tvg-logo="" group-title="Live: Italy",VIP IT: TeleColore (Campania)
+http://admin-mainpanel.club:8080/Susie/Susie/45611
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleDehonTV" tvg-logo="" group-title="Live: Italy",VIP IT: TeleDehonTV
+http://admin-mainpanel.club:8080/Susie/Susie/45701
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Teleliguria Sud" tvg-logo="" group-title="Live: Italy",VIP IT: Teleliguria Sud
+http://admin-mainpanel.club:8080/Susie/Susie/45655
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleMIa (Calabria)" tvg-logo="" group-title="Live: Italy",VIP IT: TeleMIa (Calabria)
+http://admin-mainpanel.club:8080/Susie/Susie/45643
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleMonteNeve" tvg-logo="" group-title="Live: Italy",VIP IT: TeleMonteNeve
+http://admin-mainpanel.club:8080/Susie/Susie/45642
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleMonteNeve3" tvg-logo="" group-title="Live: Italy",VIP IT: TeleMonteNeve3
+http://admin-mainpanel.club:8080/Susie/Susie/45650
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleNorba TV" tvg-logo="" group-title="Live: Italy",VIP IT: TeleNorba TV
+http://admin-mainpanel.club:8080/Susie/Susie/45714
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TelePace Tv" tvg-logo="" group-title="Live: Italy",VIP IT: TelePace Tv
+http://admin-mainpanel.club:8080/Susie/Susie/45709
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Telepavia" tvg-logo="" group-title="Live: Italy",VIP IT: Telepavia
+http://admin-mainpanel.club:8080/Susie/Susie/45639
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleRadioSciacca" tvg-logo="" group-title="Live: Italy",VIP IT: TeleRadioSciacca
+http://admin-mainpanel.club:8080/Susie/Susie/45617
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Teleromagna (EmiliaRomagna)" tvg-logo="" group-title="Live: Italy",VIP IT: Teleromagna (EmiliaRomagna)
+http://admin-mainpanel.club:8080/Susie/Susie/45693
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleSondrio Lecco" tvg-logo="" group-title="Live: Italy",VIP IT: TeleSondrio Lecco
+http://admin-mainpanel.club:8080/Susie/Susie/45685
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleSondrio Livigno" tvg-logo="" group-title="Live: Italy",VIP IT: TeleSondrio Livigno
+http://admin-mainpanel.club:8080/Susie/Susie/45633
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleSondrioNews" tvg-logo="" group-title="Live: Italy",VIP IT: TeleSondrioNews
+http://admin-mainpanel.club:8080/Susie/Susie/45632
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleStar1" tvg-logo="" group-title="Live: Italy",VIP IT: TeleStar1
+http://admin-mainpanel.club:8080/Susie/Susie/45651
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Televaldarno RTV38" tvg-logo="" group-title="Live: Italy",VIP IT: Televaldarno RTV38
+http://admin-mainpanel.club:8080/Susie/Susie/45647
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleVenezia" tvg-logo="" group-title="Live: Italy",VIP IT: TeleVenezia
+http://admin-mainpanel.club:8080/Susie/Susie/45605
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TG Com 24" tvg-logo="" group-title="Live: Italy",VIP IT: TG Com 24
+http://admin-mainpanel.club:8080/Susie/Susie/45710
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TR Mia" tvg-logo="" group-title="Live: Italy",VIP IT: TR Mia
+http://admin-mainpanel.club:8080/Susie/Susie/45697
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TR Mia (EmiliaRomagna)" tvg-logo="" group-title="Live: Italy",VIP IT: TR Mia (EmiliaRomagna)
+http://admin-mainpanel.club:8080/Susie/Susie/45695
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Trentino TV" tvg-logo="" group-title="Live: Italy",VIP IT: Trentino TV
+http://admin-mainpanel.club:8080/Susie/Susie/45608
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TRM TV" tvg-logo="" group-title="Live: Italy",VIP IT: TRM TV
+http://admin-mainpanel.club:8080/Susie/Susie/45690
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TSD TV Arezzo" tvg-logo="" group-title="Live: Italy",VIP IT: TSD TV Arezzo
+http://admin-mainpanel.club:8080/Susie/Susie/45676
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TSN Visualradio" tvg-logo="" group-title="Live: Italy",VIP IT: TSN Visualradio
+http://admin-mainpanel.club:8080/Susie/Susie/45699
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tv 6 (Abruzzo)" tvg-logo="" group-title="Live: Italy",VIP IT: Tv 6 (Abruzzo)
+http://admin-mainpanel.club:8080/Susie/Susie/45612
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV Agrigento" tvg-logo="" group-title="Live: Italy",VIP IT: TV Agrigento
+http://admin-mainpanel.club:8080/Susie/Susie/45675
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tv Avicenza" tvg-logo="" group-title="Live: Italy",VIP IT: Tv Avicenza
+http://admin-mainpanel.club:8080/Susie/Susie/45606
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV CAMPANE GOLD" tvg-logo="" group-title="Live: Italy",VIP IT: TV CAMPANE GOLD
+http://admin-mainpanel.club:8080/Susie/Susie/45659
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV Luna" tvg-logo="" group-title="Live: Italy",VIP IT: TV Luna
+http://admin-mainpanel.club:8080/Susie/Susie/45623
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV Qui Modena (EmiliaRomagna)" tvg-logo="" group-title="Live: Italy",VIP IT: TV Qui Modena (EmiliaRomagna)
+http://admin-mainpanel.club:8080/Susie/Susie/45603
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV2000 qHD" tvg-logo="" group-title="Live: Italy",VIP IT: TV2000 qHD
+http://admin-mainpanel.club:8080/Susie/Susie/45636
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TVRS" tvg-logo="" group-title="Live: Italy",VIP IT: TVRS
+http://admin-mainpanel.club:8080/Susie/Susie/45634
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Umbria TV" tvg-logo="" group-title="Live: Italy",VIP IT: Umbria TV
+http://admin-mainpanel.club:8080/Susie/Susie/45648
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Vera TV" tvg-logo="" group-title="Live: Italy",VIP IT: Vera TV
+http://admin-mainpanel.club:8080/Susie/Susie/45627
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: VH1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: VH1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/45581
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Brescia" tvg-logo="" group-title="Live: Italy",VIP IT: Video Brescia
+http://admin-mainpanel.club:8080/Susie/Susie/45644
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Calabria (Calabria)" tvg-logo="" group-title="Live: Italy",VIP IT: Video Calabria (Calabria)
+http://admin-mainpanel.club:8080/Susie/Susie/45621
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Star TV" tvg-logo="" group-title="Live: Italy",VIP IT: Video Star TV
+http://admin-mainpanel.club:8080/Susie/Susie/45613
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Tolento" tvg-logo="" group-title="Live: Italy",VIP IT: Video Tolento
+http://admin-mainpanel.club:8080/Susie/Susie/45628
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: VideoNola TV" tvg-logo="" group-title="Live: Italy",VIP IT: VideoNola TV
+http://admin-mainpanel.club:8080/Susie/Susie/45673
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Virgin Radio TV" tvg-logo="" group-title="Live: Italy",VIP IT: Virgin Radio TV
+http://admin-mainpanel.club:8080/Susie/Susie/45679
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: VisualRadio TV (musica)" tvg-logo="" group-title="Live: Italy",VIP IT: VisualRadio TV (musica)
+http://admin-mainpanel.club:8080/Susie/Susie/45686
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fano TV" tvg-logo="" group-title="Live: Italy",VIP IT: Fano TV
+http://admin-mainpanel.club:8080/Susie/Susie/35177
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: LAZIO TV" tvg-logo="" group-title="Live: Italy",VIP IT: LAZIO TV
+http://admin-mainpanel.club:8080/Susie/Susie/35229
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Motor Trend HD" tvg-logo="" group-title="Live: Italy",VIP IT: Motor Trend HD
+http://admin-mainpanel.club:8080/Susie/Susie/35235
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Pesca e Caccia" tvg-logo="" group-title="Live: Italy",VIP IT: Pesca e Caccia
+http://admin-mainpanel.club:8080/Susie/Susie/35204
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dragon Ball Z Channel FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Dragon Ball Z Channel FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35060
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: EAGLE 4K" tvg-logo="" group-title="Live: Italy",VIP IT: EAGLE 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35043
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle American Dad 24H" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle American Dad 24H
+http://admin-mainpanel.club:8080/Susie/Susie/35052
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Brickleberry FHD 24H" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Brickleberry FHD 24H
+http://admin-mainpanel.club:8080/Susie/Susie/35051
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema 007 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema 007 HD
+http://admin-mainpanel.club:8080/Susie/Susie/35047
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Animazione FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Animazione FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35028
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Avventura FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Avventura FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Azione FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Azione FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35026
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Cinema Biografico FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Biografico FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35062
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Bud Spencer HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Bud Spencer HD
+http://admin-mainpanel.club:8080/Susie/Susie/35048
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Comico Cult FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Comico Cult FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35021
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Commedia FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Commedia FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35023
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Drammatico FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Drammatico FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35017
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Cinema Famiglia FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Famiglia FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35063
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Cinema Fantascienza FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Fantascienza FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35064
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Fantastico FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Fantastico FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35024
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Film in Sala  HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Film in Sala  HD
+http://admin-mainpanel.club:8080/Susie/Susie/35029
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Horror FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Horror FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35016
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Mitologia HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Mitologia HD
+http://admin-mainpanel.club:8080/Susie/Susie/35030
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Passione FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Passione FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35018
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Prima Visione FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Prima Visione FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35027
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Religion HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Religion HD
+http://admin-mainpanel.club:8080/Susie/Susie/35044
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Sorriso FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Sorriso FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35022
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Spaghetti Western FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Spaghetti Western FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35046
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Storico FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Storico FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35019
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Thriller FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Thriller FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35020
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Western FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinema Western FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35045
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinepanettone HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Cinepanettone HD
+http://admin-mainpanel.club:8080/Susie/Susie/35055
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Disney Topolino Paperino e Pippo HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Disney Topolino Paperino e Pippo HD
+http://admin-mainpanel.club:8080/Susie/Susie/35035
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Fiabe Magiche HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Fiabe Magiche HD
+http://admin-mainpanel.club:8080/Susie/Susie/35033
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Gomorra Stagione 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35039
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Gomorra Stagione 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35040
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Gomorra Stagione 3 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35041
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Gomorra Stagione 4 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35042
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Le Fiabe Disney" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Le Fiabe Disney
+http://admin-mainpanel.club:8080/Susie/Susie/35031
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Looney Toons HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Looney Toons HD
+http://admin-mainpanel.club:8080/Susie/Susie/35036
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Masha e Orso HD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Masha e Orso HD
+http://admin-mainpanel.club:8080/Susie/Susie/35032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Nature Discovery 4K (double audio)" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Nature Discovery 4K (double audio)
+http://admin-mainpanel.club:8080/Susie/Susie/35049
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Nature Explorer FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Nature Explorer FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35050
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Peppa Pig FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Peppa Pig FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35034
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Peter Griffin 24H" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Peter Griffin 24H
+http://admin-mainpanel.club:8080/Susie/Susie/35053
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Super Pigiamini FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Super Pigiamini FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35037
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle The Cleveland Show 24H" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle The Cleveland Show 24H
+http://admin-mainpanel.club:8080/Susie/Susie/35054
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Trono di Spade S08" tvg-logo="" group-title="Live: Italy",VIP IT: Eagle Trono di Spade S08
+http://admin-mainpanel.club:8080/Susie/Susie/35038
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 3D" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 3D
+http://admin-mainpanel.club:8080/Susie/Susie/34996
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Vetrina Sky Primafila HD" tvg-logo="" group-title="Live: Italy",VIP IT: Vetrina Sky Primafila HD
+http://admin-mainpanel.club:8080/Susie/Susie/34993
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34992
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34991
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 3 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34990
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 4 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34989
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 5 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34988
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 6 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 6 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34987
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 7 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 7 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34986
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 1 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 1 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35005
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 2 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 2 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35006
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 3 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 3 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35007
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 5 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 5 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35009
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 6 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 6 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35010
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 7 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 7 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35011
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 8 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 8 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35012
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 9 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 9 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35013
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 4 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 4 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35008
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 8 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 8 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34985
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 9 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 9 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34984
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 10 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 10 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34983
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 11 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 11 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34995
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 12 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 12 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34994
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 13 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 13 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35000
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 14 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 14 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35001
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 15 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 15 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35002
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 16 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 16 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35003
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 17 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA 17 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/35004
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 1 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA MULTIVISION 1 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35014
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 2 4K" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA MULTIVISION 2 4K
+http://admin-mainpanel.club:8080/Susie/Susie/35015
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA MULTIVISION 1 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34998
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA MULTIVISION 2 FHD
+http://admin-mainpanel.club:8080/Susie/Susie/34999
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA WWE HD" tvg-logo="" group-title="Live: Italy",VIP IT: SKY PRIMAFILA WWE HD
+http://admin-mainpanel.club:8080/Susie/Susie/34997
